@@ -1,0 +1,6 @@
+﻿delivery_status,group,delay_period_yrs
+Partially Delivered,Under Construction,-
+Not Approved / Lapsed,Pipeline,8
+Approved but Not Delivered,Pipeline,5
+Completed,Remove,-
+Future,Pipeline,10
