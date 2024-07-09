@@ -1,0 +1,2365 @@
+,ProjectID,land_use,development_pa,value
+0,1001.15,Community Facilities (GFA),0.0,"85,779"
+1,1001.15,Education (GFA),0.0,0
+2,1001.15,Healthcare (GFA),0.0,0
+3,1001.15,Hotel (Units),0.0,0
+4,1001.15,Industrial (GFA),0.0,0.0
+5,1001.15,Office (GFA),0.0,0
+6,1001.15,Other (GFA),0.0,0
+7,1001.15,Residential - Apartments (Units),670.909090909091,615
+8,1001.15,Residential - Labour Accommodation (Units),0.0,0.0
+9,1001.15,Residential - Villas Emiratis (Units),996.0,913
+10,1001.15,Residential - Villas Non-Emiratis (Units),0.0,0.0
+11,1001.15,Retail (GFA),0.0,"13,053"
+12,1001.21,Community Facilities (GFA),0.0,"23,880"
+13,1001.21,Education (GFA),0.0,0
+14,1001.21,Healthcare (GFA),0.0,0
+15,1001.21,Hotel (Units),157.0909090909091,144
+16,1001.21,Industrial (GFA),0.0,0.0
+17,1001.21,Office (GFA),0.0,"32,943"
+18,1001.21,Other (GFA),0.0,0
+19,1001.21,Residential - Apartments (Units),0.0,"7,886"
+20,1001.21,Residential - Labour Accommodation (Units),0.0,0.0
+21,1001.21,Residential - Villas Emiratis (Units),0.0,0
+22,1001.21,Residential - Villas Non-Emiratis (Units),0.0,0.0
+23,1001.21,Retail (GFA),0.0,"27,171"
+24,1001.8,Community Facilities (GFA),0.0,"992,355"
+25,1001.8,Education (GFA),0.0,0
+26,1001.8,Healthcare (GFA),0.0,0
+27,1001.8,Hotel (Units),0.0,"13,413"
+28,1001.8,Industrial (GFA),0.0,0.0
+29,1001.8,Office (GFA),0.0,"1,000,000"
+30,1001.8,Other (GFA),0.0,0
+31,1001.8,Residential - Apartments (Units),0.0,0
+32,1001.8,Residential - Labour Accommodation (Units),0.0,0.0
+33,1001.8,Residential - Villas Emiratis (Units),0.0,0
+34,1001.8,Residential - Villas Non-Emiratis (Units),0.0,0.0
+35,1001.8,Retail (GFA),0.0,"859,332"
+36,1001.8.1,Community Facilities (GFA),0.0,"3,456"
+37,1001.8.1,Education (GFA),0.0,0
+38,1001.8.1,Healthcare (GFA),0.0,0
+39,1001.8.1,Hotel (Units),1800.0,225
+40,1001.8.1,Industrial (GFA),0.0,0.0
+41,1001.8.1,Office (GFA),0.0,"273,679"
+42,1001.8.1,Other (GFA),0.0,0
+43,1001.8.1,Residential - Apartments (Units),0.0,0
+44,1001.8.1,Residential - Labour Accommodation (Units),0.0,0.0
+45,1001.8.1,Residential - Villas Emiratis (Units),0.0,0
+46,1001.8.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+47,1001.8.1,Retail (GFA),0.0,"65,100"
+48,1001.8.x,Community Facilities (GFA),0.0,"14,260"
+49,1001.8.x,Education (GFA),0.0,0
+50,1001.8.x,Healthcare (GFA),0.0,0
+51,1001.8.x,Hotel (Units),0.0,0
+52,1001.8.x,Industrial (GFA),0.0,0.0
+53,1001.8.x,Office (GFA),0.0,0
+54,1001.8.x,Other (GFA),0.0,0
+55,1001.8.x,Residential - Apartments (Units),0.0,"4,172"
+56,1001.8.x,Residential - Labour Accommodation (Units),0.0,0.0
+57,1001.8.x,Residential - Villas Emiratis (Units),0.0,0
+58,1001.8.x,Residential - Villas Non-Emiratis (Units),0.0,0.0
+59,1001.8.x,Retail (GFA),0.0,"9,960"
+60,10040.0,Community Facilities (GFA),0.0,"82,623"
+61,10040.0,Education (GFA),0.0,0
+62,10040.0,Healthcare (GFA),0.0,0
+63,10040.0,Hotel (Units),2342.25,347
+64,10040.0,Industrial (GFA),0.0,0.0
+65,10040.0,Office (GFA),0.0,"119,094"
+66,10040.0,Other (GFA),0.0,0
+67,10040.0,Residential - Apartments (Units),0.0,0
+68,10040.0,Residential - Labour Accommodation (Units),0.0,0.0
+69,10040.0,Residential - Villas Emiratis (Units),0.0,0
+70,10040.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+71,10040.0,Retail (GFA),0.0,"3,016"
+72,1007.0,Community Facilities (GFA),0.0,"320,440"
+73,1007.0,Education (GFA),0.0,0
+74,1007.0,Healthcare (GFA),0.0,0
+75,1007.0,Hotel (Units),0.0,"1,257"
+76,1007.0,Industrial (GFA),0.0,0.0
+77,1007.0,Office (GFA),0.0,"610,221"
+78,1007.0,Other (GFA),0.0,0
+79,1007.0,Residential - Apartments (Units),0.0,"20,295"
+80,1007.0,Residential - Labour Accommodation (Units),0.0,0.0
+81,1007.0,Residential - Villas Emiratis (Units),0.0,"1,023"
+82,1007.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+83,1007.0,Retail (GFA),0.0,"122,193"
+84,1007.27,Community Facilities (GFA),0.0,"7,006"
+85,1007.27,Education (GFA),0.0,0
+86,1007.27,Healthcare (GFA),0.0,0
+87,1007.27,Hotel (Units),0.0,0
+88,1007.27,Industrial (GFA),0.0,0.0
+89,1007.27,Office (GFA),574.0,287
+90,1007.27,Other (GFA),0.0,0
+91,1007.27,Residential - Apartments (Units),0.0,"1,659"
+92,1007.27,Residential - Labour Accommodation (Units),0.0,0.0
+93,1007.27,Residential - Villas Emiratis (Units),0.0,0
+94,1007.27,Residential - Villas Non-Emiratis (Units),0.0,0.0
+95,1007.27,Retail (GFA),0.0,"1,046"
+96,1007.37,Community Facilities (GFA),0.0,"13,127"
+97,1007.37,Education (GFA),0.0,0
+98,1007.37,Healthcare (GFA),0.0,0
+99,1007.37,Hotel (Units),328.3636363636364,301
+100,1007.37,Industrial (GFA),0.0,0.0
+101,1007.37,Office (GFA),0.0,0
+102,1007.37,Other (GFA),0.0,0
+103,1007.37,Residential - Apartments (Units),0.0,"3,527"
+104,1007.37,Residential - Labour Accommodation (Units),0.0,0.0
+105,1007.37,Residential - Villas Emiratis (Units),0.0,0
+106,1007.37,Residential - Villas Non-Emiratis (Units),0.0,0.0
+107,1007.37,Retail (GFA),0.0,"100,000"
+108,1007.38,Community Facilities (GFA),0.0,"358,375"
+109,1007.38,Education (GFA),0.0,0
+110,1007.38,Healthcare (GFA),0.0,0
+111,1007.38,Hotel (Units),1021.0909090909091,936
+112,1007.38,Industrial (GFA),0.0,0.0
+113,1007.38,Office (GFA),0.0,"111,809"
+114,1007.38,Other (GFA),0.0,0
+115,1007.38,Residential - Apartments (Units),0.0,"11,717"
+116,1007.38,Residential - Labour Accommodation (Units),0.0,0.0
+117,1007.38,Residential - Villas Emiratis (Units),46.90909090909091,43
+118,1007.38,Residential - Villas Non-Emiratis (Units),0.0,0.0
+119,1007.38,Retail (GFA),0.0,"205,740"
+120,1007.38.3,Community Facilities (GFA),0.0,"186,032"
+121,1007.38.3,Education (GFA),0.0,0
+122,1007.38.3,Healthcare (GFA),0.0,0
+123,1007.38.3,Hotel (Units),0.0,"4,418"
+124,1007.38.3,Industrial (GFA),0.0,0.0
+125,1007.38.3,Office (GFA),0.0,"387,832"
+126,1007.38.3,Other (GFA),0.0,0
+127,1007.38.3,Residential - Apartments (Units),0.0,"29,663"
+128,1007.38.3,Residential - Labour Accommodation (Units),0.0,0.0
+129,1007.38.3,Residential - Villas Emiratis (Units),0.0,0
+130,1007.38.3,Residential - Villas Non-Emiratis (Units),0.0,0.0
+131,1007.38.3,Retail (GFA),0.0,"194,838"
+132,1007.42.1,Community Facilities (GFA),0.0,"13,229"
+133,1007.42.1,Education (GFA),0.0,0
+134,1007.42.1,Healthcare (GFA),0.0,0
+135,1007.42.1,Hotel (Units),0.0,0
+136,1007.42.1,Industrial (GFA),0.0,0.0
+137,1007.42.1,Office (GFA),0.0,0
+138,1007.42.1,Other (GFA),0.0,0
+139,1007.42.1,Residential - Apartments (Units),0.0,0
+140,1007.42.1,Residential - Labour Accommodation (Units),0.0,0.0
+141,1007.42.1,Residential - Villas Emiratis (Units),333.81818181818187,306
+142,1007.42.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+143,1007.42.1,Retail (GFA),545.4545454545455,500
+144,1007.42.4,Community Facilities (GFA),0.0,"128,701"
+145,1007.42.4,Education (GFA),0.0,0
+146,1007.42.4,Healthcare (GFA),0.0,0
+147,1007.42.4,Hotel (Units),0.0,0
+148,1007.42.4,Industrial (GFA),0.0,0.0
+149,1007.42.4,Office (GFA),0.0,0
+150,1007.42.4,Other (GFA),0.0,0
+151,1007.42.4,Residential - Apartments (Units),396.0,363
+152,1007.42.4,Residential - Labour Accommodation (Units),0.0,0.0
+153,1007.42.4,Residential - Villas Emiratis (Units),0.0,"2,483"
+154,1007.42.4,Residential - Villas Non-Emiratis (Units),0.0,0.0
+155,1007.42.4,Retail (GFA),0.0,"19,100"
+156,1007.45,Community Facilities (GFA),0.0,"22,361"
+157,1007.45,Education (GFA),0.0,0
+158,1007.45,Healthcare (GFA),0.0,0
+159,1007.45,Hotel (Units),0.0,0
+160,1007.45,Industrial (GFA),0.0,0.0
+161,1007.45,Office (GFA),0.0,0
+162,1007.45,Other (GFA),0.0,0
+163,1007.45,Residential - Apartments (Units),1376.0,688
+164,1007.45,Residential - Labour Accommodation (Units),0.0,0.0
+165,1007.45,Residential - Villas Emiratis (Units),562.0,281
+166,1007.45,Residential - Villas Non-Emiratis (Units),0.0,0.0
+167,1007.45,Retail (GFA),0.0,"1,950"
+168,1007.46,Community Facilities (GFA),0.0,"270,038"
+169,1007.46,Education (GFA),0.0,0
+170,1007.46,Healthcare (GFA),0.0,0
+171,1007.46,Hotel (Units),487.125,433
+172,1007.46,Industrial (GFA),0.0,0.0
+173,1007.46,Office (GFA),0.0,"23,753"
+174,1007.46,Other (GFA),0.0,0
+175,1007.46,Residential - Apartments (Units),0.0,"7,396"
+176,1007.46,Residential - Labour Accommodation (Units),0.0,0.0
+177,1007.46,Residential - Villas Emiratis (Units),0.0,"1,138"
+178,1007.46,Residential - Villas Non-Emiratis (Units),0.0,0.0
+179,1007.46,Retail (GFA),0.0,"123,723"
+180,10234.0,Community Facilities (GFA),0.0,0
+181,10234.0,Education (GFA),0.0,0
+182,10234.0,Healthcare (GFA),0.0,0
+183,10234.0,Hotel (Units),0.0,0
+184,10234.0,Industrial (GFA),0.0,0.0
+185,10234.0,Office (GFA),0.0,0
+186,10234.0,Other (GFA),0.0,0
+187,10234.0,Residential - Apartments (Units),0.0,0
+188,10234.0,Residential - Labour Accommodation (Units),0.0,0.0
+189,10234.0,Residential - Villas Emiratis (Units),0.0,0
+190,10234.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+191,10234.0,Retail (GFA),0.0,0
+192,1032.0,Community Facilities (GFA),0.0,"1,205"
+193,1032.0,Education (GFA),0.0,0
+194,1032.0,Healthcare (GFA),0.0,0
+195,1032.0,Hotel (Units),0.0,0
+196,1032.0,Industrial (GFA),0.0,0.0
+197,1032.0,Office (GFA),0.0,0
+198,1032.0,Other (GFA),0.0,0
+199,1032.0,Residential - Apartments (Units),0.0,"1,392"
+200,1032.0,Residential - Labour Accommodation (Units),0.0,0.0
+201,1032.0,Residential - Villas Emiratis (Units),0.0,0
+202,1032.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+203,1032.0,Retail (GFA),0.0,"1,415"
+204,1039.0,Community Facilities (GFA),0.0,0
+205,1039.0,Education (GFA),0.0,0
+206,1039.0,Healthcare (GFA),0.0,0
+207,1039.0,Hotel (Units),0.0,419
+208,1039.0,Industrial (GFA),0.0,0.0
+209,1039.0,Office (GFA),0.0,0
+210,1039.0,Other (GFA),0.0,0
+211,1039.0,Residential - Apartments (Units),0.0,0
+212,1039.0,Residential - Labour Accommodation (Units),0.0,0.0
+213,1039.0,Residential - Villas Emiratis (Units),0.0,0
+214,1039.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+215,1039.0,Retail (GFA),0.0,0
+216,1039.1,Community Facilities (GFA),0.0,0
+217,1039.1,Education (GFA),0.0,0
+218,1039.1,Healthcare (GFA),0.0,0
+219,1039.1,Hotel (Units),0.0,364
+220,1039.1,Industrial (GFA),0.0,0.0
+221,1039.1,Office (GFA),0.0,0
+222,1039.1,Other (GFA),0.0,0
+223,1039.1,Residential - Apartments (Units),0.0,0
+224,1039.1,Residential - Labour Accommodation (Units),0.0,0.0
+225,1039.1,Residential - Villas Emiratis (Units),0.0,0
+226,1039.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+227,1039.1,Retail (GFA),0.0,"3,485"
+228,1042.0,Community Facilities (GFA),0.0,"54,727"
+229,1042.0,Education (GFA),0.0,0
+230,1042.0,Healthcare (GFA),0.0,0
+231,1042.0,Hotel (Units),0.0,0
+232,1042.0,Industrial (GFA),0.0,0.0
+233,1042.0,Office (GFA),0.0,"22,673"
+234,1042.0,Other (GFA),0.0,0
+235,1042.0,Residential - Apartments (Units),380.0,190
+236,1042.0,Residential - Labour Accommodation (Units),0.0,0.0
+237,1042.0,Residential - Villas Emiratis (Units),0.0,0
+238,1042.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+239,1042.0,Retail (GFA),0.0,"2,600"
+240,1072.0,Community Facilities (GFA),0.0,0
+241,1072.0,Education (GFA),0.0,0
+242,1072.0,Healthcare (GFA),0.0,0
+243,1072.0,Hotel (Units),1002.0,501
+244,1072.0,Industrial (GFA),0.0,0.0
+245,1072.0,Office (GFA),0.0,"37,000"
+246,1072.0,Other (GFA),0.0,0
+247,1072.0,Residential - Apartments (Units),0.0,0
+248,1072.0,Residential - Labour Accommodation (Units),0.0,0.0
+249,1072.0,Residential - Villas Emiratis (Units),0.0,0
+250,1072.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+251,1072.0,Retail (GFA),0.0,"33,100"
+252,1084.0,Community Facilities (GFA),0.0,"46,599"
+253,1084.0,Education (GFA),0.0,0
+254,1084.0,Healthcare (GFA),0.0,0
+255,1084.0,Hotel (Units),0.0,705
+256,1084.0,Industrial (GFA),0.0,0.0
+257,1084.0,Office (GFA),0.0,"25,828"
+258,1084.0,Other (GFA),0.0,0
+259,1084.0,Residential - Apartments (Units),0.0,0
+260,1084.0,Residential - Labour Accommodation (Units),0.0,0.0
+261,1084.0,Residential - Villas Emiratis (Units),0.0,0
+262,1084.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+263,1084.0,Retail (GFA),0.0,"14,372"
+264,1085.0,Community Facilities (GFA),0.0,"110,027"
+265,1085.0,Education (GFA),0.0,0
+266,1085.0,Healthcare (GFA),0.0,0
+267,1085.0,Hotel (Units),450.0,225
+268,1085.0,Industrial (GFA),0.0,0.0
+269,1085.0,Office (GFA),0.0,"183,806"
+270,1085.0,Other (GFA),0.0,0
+271,1085.0,Residential - Apartments (Units),0.0,"5,435"
+272,1085.0,Residential - Labour Accommodation (Units),0.0,0.0
+273,1085.0,Residential - Villas Emiratis (Units),84.0,42
+274,1085.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+275,1085.0,Retail (GFA),0.0,"44,995"
+276,1086.3,Community Facilities (GFA),0.0,"7,105"
+277,1086.3,Education (GFA),0.0,0
+278,1086.3,Healthcare (GFA),0.0,0
+279,1086.3,Hotel (Units),0.0,0
+280,1086.3,Industrial (GFA),0.0,0.0
+281,1086.3,Office (GFA),0.0,"269,983"
+282,1086.3,Other (GFA),0.0,0
+283,1086.3,Residential - Apartments (Units),0.0,"3,831"
+284,1086.3,Residential - Labour Accommodation (Units),0.0,0.0
+285,1086.3,Residential - Villas Emiratis (Units),0.0,0
+286,1086.3,Residential - Villas Non-Emiratis (Units),0.0,0.0
+287,1086.3,Retail (GFA),0.0,"37,721"
+288,1089.56,Community Facilities (GFA),0.0,"84,227"
+289,1089.56,Education (GFA),0.0,0
+290,1089.56,Healthcare (GFA),0.0,0
+291,1089.56,Hotel (Units),0.0,"1,032"
+292,1089.56,Industrial (GFA),0.0,0.0
+293,1089.56,Office (GFA),0.0,"151,377"
+294,1089.56,Other (GFA),0.0,0
+295,1089.56,Residential - Apartments (Units),0.0,"2,713"
+296,1089.56,Residential - Labour Accommodation (Units),0.0,0.0
+297,1089.56,Residential - Villas Emiratis (Units),0.0,0
+298,1089.56,Residential - Villas Non-Emiratis (Units),0.0,0.0
+299,1089.56,Retail (GFA),0.0,"7,629"
+300,1089.62,Community Facilities (GFA),0.0,0
+301,1089.62,Education (GFA),0.0,0
+302,1089.62,Healthcare (GFA),0.0,0
+303,1089.62,Hotel (Units),860.0,430
+304,1089.62,Industrial (GFA),0.0,0.0
+305,1089.62,Office (GFA),0.0,"32,051"
+306,1089.62,Other (GFA),0.0,0
+307,1089.62,Residential - Apartments (Units),0.0,0
+308,1089.62,Residential - Labour Accommodation (Units),0.0,0.0
+309,1089.62,Residential - Villas Emiratis (Units),0.0,0
+310,1089.62,Residential - Villas Non-Emiratis (Units),0.0,0.0
+311,1089.62,Retail (GFA),0.0,"380,000"
+312,1089.65,Community Facilities (GFA),0.0,"57,444"
+313,1089.65,Education (GFA),0.0,0
+314,1089.65,Healthcare (GFA),0.0,0
+315,1089.65,Hotel (Units),0.0,0
+316,1089.65,Industrial (GFA),0.0,0.0
+317,1089.65,Office (GFA),0.0,0
+318,1089.65,Other (GFA),0.0,0
+319,1089.65,Residential - Apartments (Units),0.0,"1,000"
+320,1089.65,Residential - Labour Accommodation (Units),0.0,0.0
+321,1089.65,Residential - Villas Emiratis (Units),0.0,"1,273"
+322,1089.65,Residential - Villas Non-Emiratis (Units),0.0,0.0
+323,1089.65,Retail (GFA),0.0,"19,000"
+324,1097.34,Community Facilities (GFA),0.0,"47,739"
+325,1097.34,Education (GFA),0.0,"3,031"
+326,1097.34,Healthcare (GFA),0.0,0
+327,1097.34,Hotel (Units),274.0,137
+328,1097.34,Industrial (GFA),0.0,0.0
+329,1097.34,Office (GFA),0.0,"89,911"
+330,1097.34,Other (GFA),0.0,"44,708"
+331,1097.34,Residential - Apartments (Units),1722.0,861
+332,1097.34,Residential - Labour Accommodation (Units),0.0,0.0
+333,1097.34,Residential - Villas Emiratis (Units),0.0,76
+334,1097.34,Residential - Villas Non-Emiratis (Units),0.0,0.0
+335,1097.34,Retail (GFA),0.0,"29,335"
+336,1097.40,Community Facilities (GFA),0.0,"1,262"
+337,1097.40,Education (GFA),0.0,0
+338,1097.40,Healthcare (GFA),0.0,0
+339,1097.40,Hotel (Units),932.0,466
+340,1097.40,Industrial (GFA),0.0,0.0
+341,1097.40,Office (GFA),0.0,0
+342,1097.40,Other (GFA),0.0,0
+343,1097.40,Residential - Apartments (Units),0.0,0
+344,1097.40,Residential - Labour Accommodation (Units),0.0,0.0
+345,1097.40,Residential - Villas Emiratis (Units),378.0,189
+346,1097.40,Residential - Villas Non-Emiratis (Units),0.0,0.0
+347,1097.40,Retail (GFA),0.0,0
+348,1099.0,Community Facilities (GFA),0.0,"29,715"
+349,1099.0,Education (GFA),0.0,0
+350,1099.0,Healthcare (GFA),0.0,0
+351,1099.0,Hotel (Units),0.0,0
+352,1099.0,Industrial (GFA),0.0,0.0
+353,1099.0,Office (GFA),0.0,"1,058,344"
+354,1099.0,Other (GFA),0.0,0
+355,1099.0,Residential - Apartments (Units),0.0,"5,526"
+356,1099.0,Residential - Labour Accommodation (Units),0.0,0.0
+357,1099.0,Residential - Villas Emiratis (Units),0.0,0
+358,1099.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+359,1099.0,Retail (GFA),0.0,"67,595"
+360,1104.0,Community Facilities (GFA),0.0,0
+361,1104.0,Education (GFA),0.0,0
+362,1104.0,Healthcare (GFA),0.0,0
+363,1104.0,Hotel (Units),0.0,0
+364,1104.0,Industrial (GFA),0.0,0.0
+365,1104.0,Office (GFA),0.0,0
+366,1104.0,Other (GFA),0.0,0
+367,1104.0,Residential - Apartments (Units),0.0,0
+368,1104.0,Residential - Labour Accommodation (Units),0.0,0.0
+369,1104.0,Residential - Villas Emiratis (Units),0.0,0
+370,1104.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+371,1104.0,Retail (GFA),0.0,0
+372,1104.x,Community Facilities (GFA),0.0,0
+373,1104.x,Education (GFA),0.0,0
+374,1104.x,Healthcare (GFA),0.0,0
+375,1104.x,Hotel (Units),0.0,0
+376,1104.x,Industrial (GFA),0.0,0.0
+377,1104.x,Office (GFA),0.0,0
+378,1104.x,Other (GFA),0.0,0
+379,1104.x,Residential - Apartments (Units),0.0,0
+380,1104.x,Residential - Labour Accommodation (Units),0.0,0.0
+381,1104.x,Residential - Villas Emiratis (Units),0.0,0
+382,1104.x,Residential - Villas Non-Emiratis (Units),0.0,0.0
+383,1104.x,Retail (GFA),0.0,0
+384,1105.1,Community Facilities (GFA),0.0,"9,963"
+385,1105.1,Education (GFA),0.0,0
+386,1105.1,Healthcare (GFA),0.0,0
+387,1105.1,Hotel (Units),0.0,798
+388,1105.1,Industrial (GFA),0.0,0.0
+389,1105.1,Office (GFA),0.0,"166,211"
+390,1105.1,Other (GFA),0.0,0
+391,1105.1,Residential - Apartments (Units),0.0,967
+392,1105.1,Residential - Labour Accommodation (Units),0.0,0.0
+393,1105.1,Residential - Villas Emiratis (Units),0.0,0
+394,1105.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+395,1105.1,Retail (GFA),0.0,"33,710"
+396,1106.0,Community Facilities (GFA),0.0,0
+397,1106.0,Education (GFA),0.0,0
+398,1106.0,Healthcare (GFA),0.0,0
+399,1106.0,Hotel (Units),0.0,0
+400,1106.0,Industrial (GFA),0.0,0.0
+401,1106.0,Office (GFA),0.0,0
+402,1106.0,Other (GFA),0.0,0
+403,1106.0,Residential - Apartments (Units),0.0,0
+404,1106.0,Residential - Labour Accommodation (Units),0.0,0.0
+405,1106.0,Residential - Villas Emiratis (Units),0.0,0
+406,1106.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+407,1106.0,Retail (GFA),0.0,0
+408,1113.0,Community Facilities (GFA),0.0,"90,314"
+409,1113.0,Education (GFA),0.0,0
+410,1113.0,Healthcare (GFA),0.0,0
+411,1113.0,Hotel (Units),0.0,"1,521"
+412,1113.0,Industrial (GFA),0.0,0.0
+413,1113.0,Office (GFA),0.0,"7,425"
+414,1113.0,Other (GFA),0.0,0
+415,1113.0,Residential - Apartments (Units),0.0,"11,610"
+416,1113.0,Residential - Labour Accommodation (Units),0.0,0.0
+417,1113.0,Residential - Villas Emiratis (Units),0.0,0
+418,1113.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+419,1113.0,Retail (GFA),0.0,"58,400"
+420,1113.1.3,Community Facilities (GFA),0.0,0
+421,1113.1.3,Education (GFA),0.0,0
+422,1113.1.3,Healthcare (GFA),0.0,0
+423,1113.1.3,Hotel (Units),0.0,0
+424,1113.1.3,Industrial (GFA),0.0,0.0
+425,1113.1.3,Office (GFA),0.0,0
+426,1113.1.3,Other (GFA),0.0,0
+427,1113.1.3,Residential - Apartments (Units),0.0,
+428,1113.1.3,Residential - Labour Accommodation (Units),0.0,0.0
+429,1113.1.3,Residential - Villas Emiratis (Units),0.0,
+430,1113.1.3,Residential - Villas Non-Emiratis (Units),0.0,0.0
+431,1113.1.3,Retail (GFA),0.0,"100,000"
+432,1113.10,Community Facilities (GFA),0.0,"20,600"
+433,1113.10,Education (GFA),0.0,"1,400"
+434,1113.10,Healthcare (GFA),0.0,"3,500"
+435,1113.10,Hotel (Units),883.125,785
+436,1113.10,Industrial (GFA),0.0,0.0
+437,1113.10,Office (GFA),0.0,0
+438,1113.10,Other (GFA),0.0,"15,700"
+439,1113.10,Residential - Apartments (Units),0.0,
+440,1113.10,Residential - Labour Accommodation (Units),0.0,0.0
+441,1113.10,Residential - Villas Emiratis (Units),0.0,
+442,1113.10,Residential - Villas Non-Emiratis (Units),0.0,0.0
+443,1113.10,Retail (GFA),0.0,"35,875"
+444,1113.13,Community Facilities (GFA),0.0,0
+445,1113.13,Education (GFA),0.0,0
+446,1113.13,Healthcare (GFA),0.0,0
+447,1113.13,Hotel (Units),0.0,0
+448,1113.13,Industrial (GFA),0.0,0.0
+449,1113.13,Office (GFA),110.18181818181819,101
+450,1113.13,Other (GFA),0.0,0
+451,1113.13,Residential - Apartments (Units),321.81818181818187,295
+452,1113.13,Residential - Labour Accommodation (Units),0.0,0.0
+453,1113.13,Residential - Villas Emiratis (Units),0.0,0
+454,1113.13,Residential - Villas Non-Emiratis (Units),0.0,0.0
+455,1113.13,Retail (GFA),0.0,0
+456,1113.16,Community Facilities (GFA),0.0,0
+457,1113.16,Education (GFA),0.0,0
+458,1113.16,Healthcare (GFA),0.0,0
+459,1113.16,Hotel (Units),0.0,0
+460,1113.16,Industrial (GFA),0.0,0.0
+461,1113.16,Office (GFA),0.0,"29,450"
+462,1113.16,Other (GFA),0.0,0
+463,1113.16,Residential - Apartments (Units),0.0,0
+464,1113.16,Residential - Labour Accommodation (Units),0.0,0.0
+465,1113.16,Residential - Villas Emiratis (Units),0.0,0
+466,1113.16,Residential - Villas Non-Emiratis (Units),0.0,0.0
+467,1113.16,Retail (GFA),0.0,"1,550"
+468,1113.17,Community Facilities (GFA),0.0,0
+469,1113.17,Education (GFA),0.0,0
+470,1113.17,Healthcare (GFA),0.0,0
+471,1113.17,Hotel (Units),301.09090909090907,276
+472,1113.17,Industrial (GFA),0.0,0.0
+473,1113.17,Office (GFA),0.0,0
+474,1113.17,Other (GFA),0.0,0
+475,1113.17,Residential - Apartments (Units),0.0,0
+476,1113.17,Residential - Labour Accommodation (Units),0.0,0.0
+477,1113.17,Residential - Villas Emiratis (Units),0.0,0
+478,1113.17,Residential - Villas Non-Emiratis (Units),0.0,0.0
+479,1113.17,Retail (GFA),0.0,0
+480,1113.21,Community Facilities (GFA),0.0,0
+481,1113.21,Education (GFA),0.0,0
+482,1113.21,Healthcare (GFA),0.0,0
+483,1113.21,Hotel (Units),0.0,0
+484,1113.21,Industrial (GFA),0.0,0.0
+485,1113.21,Office (GFA),0.0,0
+486,1113.21,Other (GFA),0.0,0
+487,1113.21,Residential - Apartments (Units),0.0,0
+488,1113.21,Residential - Labour Accommodation (Units),0.0,0.0
+489,1113.21,Residential - Villas Emiratis (Units),0.0,0
+490,1113.21,Residential - Villas Non-Emiratis (Units),0.0,0.0
+491,1113.21,Retail (GFA),0.0,"12,080"
+492,1113.24.x,Community Facilities (GFA),0.0,0
+493,1113.24.x,Education (GFA),0.0,0
+494,1113.24.x,Healthcare (GFA),0.0,0
+495,1113.24.x,Hotel (Units),0.0,0
+496,1113.24.x,Industrial (GFA),0.0,0.0
+497,1113.24.x,Office (GFA),0.0,0
+498,1113.24.x,Other (GFA),0.0,0
+499,1113.24.x,Residential - Apartments (Units),816.0,748
+500,1113.24.x,Residential - Labour Accommodation (Units),0.0,0.0
+501,1113.24.x,Residential - Villas Emiratis (Units),0.0,0
+502,1113.24.x,Residential - Villas Non-Emiratis (Units),0.0,0.0
+503,1113.24.x,Retail (GFA),0.0,0
+504,1113.27,Community Facilities (GFA),0.0,"56,916"
+505,1113.27,Education (GFA),0.0,0
+506,1113.27,Healthcare (GFA),0.0,0
+507,1113.27,Hotel (Units),0.0,"1,766"
+508,1113.27,Industrial (GFA),0.0,0.0
+509,1113.27,Office (GFA),0.0,"235,602"
+510,1113.27,Other (GFA),0.0,0
+511,1113.27,Residential - Apartments (Units),0.0,"19,700"
+512,1113.27,Residential - Labour Accommodation (Units),0.0,0.0
+513,1113.27,Residential - Villas Emiratis (Units),0.0,0
+514,1113.27,Residential - Villas Non-Emiratis (Units),0.0,0.0
+515,1113.27,Retail (GFA),0.0,"140,014"
+516,1113.28,Community Facilities (GFA),0.0,"6,894"
+517,1113.28,Education (GFA),0.0,0
+518,1113.28,Healthcare (GFA),0.0,0
+519,1113.28,Hotel (Units),0.0,0
+520,1113.28,Industrial (GFA),0.0,0.0
+521,1113.28,Office (GFA),0.0,0
+522,1113.28,Other (GFA),0.0,0
+523,1113.28,Residential - Apartments (Units),0.0,"2,536"
+524,1113.28,Residential - Labour Accommodation (Units),0.0,0.0
+525,1113.28,Residential - Villas Emiratis (Units),43.63636363636364,40
+526,1113.28,Residential - Villas Non-Emiratis (Units),0.0,0.0
+527,1113.28,Retail (GFA),0.0,"3,269"
+528,1113.3.3,Community Facilities (GFA),0.0,"1,457"
+529,1113.3.3,Education (GFA),0.0,0
+530,1113.3.3,Healthcare (GFA),0.0,0
+531,1113.3.3,Hotel (Units),0.0,"4,040"
+532,1113.3.3,Industrial (GFA),0.0,0.0
+533,1113.3.3,Office (GFA),0.0,"248,717"
+534,1113.3.3,Other (GFA),0.0,0
+535,1113.3.3,Residential - Apartments (Units),0.0,"1,393"
+536,1113.3.3,Residential - Labour Accommodation (Units),0.0,0.0
+537,1113.3.3,Residential - Villas Emiratis (Units),0.0,0
+538,1113.3.3,Residential - Villas Non-Emiratis (Units),0.0,0.0
+539,1113.3.3,Retail (GFA),0.0,"48,000"
+540,1113.6,Community Facilities (GFA),0.0,"624,230"
+541,1113.6,Education (GFA),0.0,0
+542,1113.6,Healthcare (GFA),0.0,0
+543,1113.6,Hotel (Units),0.0,"5,614"
+544,1113.6,Industrial (GFA),0.0,0.0
+545,1113.6,Office (GFA),0.0,"421,064"
+546,1113.6,Other (GFA),0.0,0
+547,1113.6,Residential - Apartments (Units),0.0,
+548,1113.6,Residential - Labour Accommodation (Units),0.0,0.0
+549,1113.6,Residential - Villas Emiratis (Units),0.0,
+550,1113.6,Residential - Villas Non-Emiratis (Units),0.0,0.0
+551,1113.6,Retail (GFA),0.0,"613,325"
+552,1113.6.12,Community Facilities (GFA),0.0,"187,183"
+553,1113.6.12,Education (GFA),0.0,0
+554,1113.6.12,Healthcare (GFA),0.0,0
+555,1113.6.12,Hotel (Units),1551.272727272727,474
+556,1113.6.12,Industrial (GFA),0.0,0.0
+557,1113.6.12,Office (GFA),0.0,"78,397"
+558,1113.6.12,Other (GFA),0.0,0
+559,1113.6.12,Residential - Apartments (Units),0.0,"14,701"
+560,1113.6.12,Residential - Labour Accommodation (Units),0.0,0.0
+561,1113.6.12,Residential - Villas Emiratis (Units),495.27272727272725,454
+562,1113.6.12,Residential - Villas Non-Emiratis (Units),0.0,0.0
+563,1113.6.12,Retail (GFA),0.0,"37,120"
+564,1113.6.12.1,Community Facilities (GFA),558.5454545454545,512
+565,1113.6.12.1,Education (GFA),0.0,0
+566,1113.6.12.1,Healthcare (GFA),0.0,0
+567,1113.6.12.1,Hotel (Units),0.0,0
+568,1113.6.12.1,Industrial (GFA),0.0,0.0
+569,1113.6.12.1,Office (GFA),0.0,0
+570,1113.6.12.1,Other (GFA),0.0,0
+571,1113.6.12.1,Residential - Apartments (Units),0.0,0
+572,1113.6.12.1,Residential - Labour Accommodation (Units),0.0,0.0
+573,1113.6.12.1,Residential - Villas Emiratis (Units),556.3636363636364,510
+574,1113.6.12.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+575,1113.6.12.1,Retail (GFA),0.0,0
+576,1113.6.12.2,Community Facilities (GFA),0.0,"32,132"
+577,1113.6.12.2,Education (GFA),0.0,0
+578,1113.6.12.2,Healthcare (GFA),0.0,0
+579,1113.6.12.2,Hotel (Units),0.0,0
+580,1113.6.12.2,Industrial (GFA),0.0,0.0
+581,1113.6.12.2,Office (GFA),0.0,0
+582,1113.6.12.2,Other (GFA),0.0,0
+583,1113.6.12.2,Residential - Apartments (Units),0.0,0
+584,1113.6.12.2,Residential - Labour Accommodation (Units),0.0,0.0
+585,1113.6.12.2,Residential - Villas Emiratis (Units),728.7272727272727,668
+586,1113.6.12.2,Residential - Villas Non-Emiratis (Units),0.0,0.0
+587,1113.6.12.2,Retail (GFA),0.0,"5,300"
+588,1113.6.12.3,Community Facilities (GFA),0.0,"11,528"
+589,1113.6.12.3,Education (GFA),0.0,0
+590,1113.6.12.3,Healthcare (GFA),0.0,0
+591,1113.6.12.3,Hotel (Units),0.0,0
+592,1113.6.12.3,Industrial (GFA),0.0,0.0
+593,1113.6.12.3,Office (GFA),0.0,0
+594,1113.6.12.3,Other (GFA),0.0,0
+595,1113.6.12.3,Residential - Apartments (Units),506.18181818181813,464
+596,1113.6.12.3,Residential - Labour Accommodation (Units),0.0,0.0
+597,1113.6.12.3,Residential - Villas Emiratis (Units),436.3636363636364,400
+598,1113.6.12.3,Residential - Villas Non-Emiratis (Units),0.0,0.0
+599,1113.6.12.3,Retail (GFA),0.0,"1,980"
+600,1113.6.12.4,Community Facilities (GFA),0.0,"5,700"
+601,1113.6.12.4,Education (GFA),0.0,0
+602,1113.6.12.4,Healthcare (GFA),0.0,0
+603,1113.6.12.4,Hotel (Units),0.0,0
+604,1113.6.12.4,Industrial (GFA),0.0,0.0
+605,1113.6.12.4,Office (GFA),0.0,0
+606,1113.6.12.4,Other (GFA),0.0,0
+607,1113.6.12.4,Residential - Apartments (Units),0.0,0
+608,1113.6.12.4,Residential - Labour Accommodation (Units),0.0,0.0
+609,1113.6.12.4,Residential - Villas Emiratis (Units),926.1818181818182,849
+610,1113.6.12.4,Residential - Villas Non-Emiratis (Units),0.0,0.0
+611,1113.6.12.4,Retail (GFA),0.0,0
+612,1113.7.JB_JC,Community Facilities (GFA),0.0,0
+613,1113.7.JB_JC,Education (GFA),0.0,0
+614,1113.7.JB_JC,Healthcare (GFA),0.0,0
+615,1113.7.JB_JC,Hotel (Units),0.0,0
+616,1113.7.JB_JC,Industrial (GFA),0.0,0.0
+617,1113.7.JB_JC,Office (GFA),0.0,0
+618,1113.7.JB_JC,Other (GFA),0.0,0
+619,1113.7.JB_JC,Residential - Apartments (Units),0.0,
+620,1113.7.JB_JC,Residential - Labour Accommodation (Units),0.0,0.0
+621,1113.7.JB_JC,Residential - Villas Emiratis (Units),0.0,
+622,1113.7.JB_JC,Residential - Villas Non-Emiratis (Units),0.0,0.0
+623,1113.7.JB_JC,Retail (GFA),0.0,"1,500"
+624,1113.7.JE,Community Facilities (GFA),0.0,950
+625,1113.7.JE,Education (GFA),0.0,0
+626,1113.7.JE,Healthcare (GFA),0.0,0
+627,1113.7.JE,Hotel (Units),0.0,0
+628,1113.7.JE,Industrial (GFA),0.0,0.0
+629,1113.7.JE,Office (GFA),0.0,0
+630,1113.7.JE,Other (GFA),0.0,0
+631,1113.7.JE,Residential - Apartments (Units),0.0,242
+632,1113.7.JE,Residential - Labour Accommodation (Units),0.0,0.0
+633,1113.7.JE,Residential - Villas Emiratis (Units),0.0,0
+634,1113.7.JE,Residential - Villas Non-Emiratis (Units),0.0,0.0
+635,1113.7.JE,Retail (GFA),0.0,0
+636,1113.8,Community Facilities (GFA),0.0,"66,063"
+637,1113.8,Education (GFA),0.0,0
+638,1113.8,Healthcare (GFA),0.0,0
+639,1113.8,Hotel (Units),0.0,"1,766"
+640,1113.8,Industrial (GFA),0.0,0.0
+641,1113.8,Office (GFA),0.0,"53,300"
+642,1113.8,Other (GFA),0.0,0
+643,1113.8,Residential - Apartments (Units),0.0,"12,616"
+644,1113.8,Residential - Labour Accommodation (Units),0.0,0.0
+645,1113.8,Residential - Villas Emiratis (Units),0.0,0
+646,1113.8,Residential - Villas Non-Emiratis (Units),0.0,0.0
+647,1113.8,Retail (GFA),0.0,"120,525"
+648,1113.9,Community Facilities (GFA),0.0,"196,521"
+649,1113.9,Education (GFA),0.0,0
+650,1113.9,Healthcare (GFA),0.0,0
+651,1113.9,Hotel (Units),0.0,"1,114"
+652,1113.9,Industrial (GFA),0.0,0.0
+653,1113.9,Office (GFA),0.0,"577,278"
+654,1113.9,Other (GFA),0.0,0
+655,1113.9,Residential - Apartments (Units),0.0,"7,662"
+656,1113.9,Residential - Labour Accommodation (Units),0.0,0.0
+657,1113.9,Residential - Villas Emiratis (Units),220.0,110
+658,1113.9,Residential - Villas Non-Emiratis (Units),0.0,0.0
+659,1113.9,Retail (GFA),0.0,"72,009"
+660,1113.E1_C3e,Community Facilities (GFA),0.0,0
+661,1113.E1_C3e,Education (GFA),0.0,0
+662,1113.E1_C3e,Healthcare (GFA),0.0,0
+663,1113.E1_C3e,Hotel (Units),0.0,0
+664,1113.E1_C3e,Industrial (GFA),0.0,0.0
+665,1113.E1_C3e,Office (GFA),0.0,0
+666,1113.E1_C3e,Other (GFA),0.0,0
+667,1113.E1_C3e,Residential - Apartments (Units),0.0,0
+668,1113.E1_C3e,Residential - Labour Accommodation (Units),0.0,0.0
+669,1113.E1_C3e,Residential - Villas Emiratis (Units),0.0,0
+670,1113.E1_C3e,Residential - Villas Non-Emiratis (Units),0.0,0.0
+671,1113.E1_C3e,Retail (GFA),0.0,"16,949"
+672,1114.0,Community Facilities (GFA),0.0,"11,655"
+673,1114.0,Education (GFA),0.0,0
+674,1114.0,Healthcare (GFA),0.0,0
+675,1114.0,Hotel (Units),50.0,25
+676,1114.0,Industrial (GFA),0.0,0.0
+677,1114.0,Office (GFA),0.0,0
+678,1114.0,Other (GFA),0.0,0
+679,1114.0,Residential - Apartments (Units),300.0,150
+680,1114.0,Residential - Labour Accommodation (Units),0.0,0.0
+681,1114.0,Residential - Villas Emiratis (Units),0.0,0
+682,1114.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+683,1114.0,Retail (GFA),0.0,"52,300"
+684,1114.1,Community Facilities (GFA),0.0,"409,937"
+685,1114.1,Education (GFA),0.0,0
+686,1114.1,Healthcare (GFA),0.0,"264,700"
+687,1114.1,Hotel (Units),0.0,"5,093"
+688,1114.1,Industrial (GFA),0.0,0.0
+689,1114.1,Office (GFA),0.0,"1,000,576"
+690,1114.1,Other (GFA),0.0,"145,237"
+691,1114.1,Residential - Apartments (Units),0.0,0
+692,1114.1,Residential - Labour Accommodation (Units),0.0,0.0
+693,1114.1,Residential - Villas Emiratis (Units),0.0,0
+694,1114.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+695,1114.1,Retail (GFA),0.0,"303,948"
+696,1114.1.21,Community Facilities (GFA),0.0,0
+697,1114.1.21,Education (GFA),0.0,0
+698,1114.1.21,Healthcare (GFA),0.0,0
+699,1114.1.21,Hotel (Units),720.0,660
+700,1114.1.21,Industrial (GFA),0.0,0.0
+701,1114.1.21,Office (GFA),0.0,"14,377"
+702,1114.1.21,Other (GFA),0.0,0
+703,1114.1.21,Residential - Apartments (Units),629.4545454545455,577
+704,1114.1.21,Residential - Labour Accommodation (Units),0.0,0.0
+705,1114.1.21,Residential - Villas Emiratis (Units),0.0,0
+706,1114.1.21,Residential - Villas Non-Emiratis (Units),0.0,0.0
+707,1114.1.21,Retail (GFA),0.0,"13,992"
+708,1114.48,Community Facilities (GFA),0.0,"85,405"
+709,1114.48,Education (GFA),0.0,0
+710,1114.48,Healthcare (GFA),0.0,0
+711,1114.48,Hotel (Units),878.625,781
+712,1114.48,Industrial (GFA),0.0,0.0
+713,1114.48,Office (GFA),0.0,"676,408"
+714,1114.48,Other (GFA),0.0,0
+715,1114.48,Residential - Apartments (Units),0.0,"5,418"
+716,1114.48,Residential - Labour Accommodation (Units),0.0,0.0
+717,1114.48,Residential - Villas Emiratis (Units),0.0,0
+718,1114.48,Residential - Villas Non-Emiratis (Units),0.0,0.0
+719,1114.48,Retail (GFA),0.0,"46,454"
+720,1119.0,Community Facilities (GFA),0.0,"156,970"
+721,1119.0,Education (GFA),0.0,0
+722,1119.0,Healthcare (GFA),0.0,0
+723,1119.0,Hotel (Units),628.0,314
+724,1119.0,Industrial (GFA),0.0,0.0
+725,1119.0,Office (GFA),0.0,"27,700"
+726,1119.0,Other (GFA),0.0,0
+727,1119.0,Residential - Apartments (Units),0.0,"12,186"
+728,1119.0,Residential - Labour Accommodation (Units),0.0,0.0
+729,1119.0,Residential - Villas Emiratis (Units),0.0,"2,485"
+730,1119.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+731,1119.0,Retail (GFA),0.0,"40,350"
+732,1122.0,Community Facilities (GFA),0.0,"143,531"
+733,1122.0,Education (GFA),0.0,0
+734,1122.0,Healthcare (GFA),0.0,0
+735,1122.0,Hotel (Units),0.0,0
+736,1122.0,Industrial (GFA),0.0,0.0
+737,1122.0,Office (GFA),0.0,"3,941"
+738,1122.0,Other (GFA),0.0,0
+739,1122.0,Residential - Apartments (Units),1528.0,764
+740,1122.0,Residential - Labour Accommodation (Units),0.0,0.0
+741,1122.0,Residential - Villas Emiratis (Units),0.0,0
+742,1122.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+743,1122.0,Retail (GFA),0.0,0
+744,11220.0,Community Facilities (GFA),0.0,0
+745,11220.0,Education (GFA),0.0,0
+746,11220.0,Healthcare (GFA),0.0,0
+747,11220.0,Hotel (Units),0.0,0
+748,11220.0,Industrial (GFA),0.0,0.0
+749,11220.0,Office (GFA),0.0,0
+750,11220.0,Other (GFA),0.0,0
+751,11220.0,Residential - Apartments (Units),283.6363636363636,260
+752,11220.0,Residential - Labour Accommodation (Units),0.0,0.0
+753,11220.0,Residential - Villas Emiratis (Units),0.0,0
+754,11220.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+755,11220.0,Retail (GFA),0.0,"130,073"
+756,1137.0,Community Facilities (GFA),0.0,"198,755"
+757,1137.0,Education (GFA),0.0,0
+758,1137.0,Healthcare (GFA),0.0,0
+759,1137.0,Hotel (Units),0.0,"2,691"
+760,1137.0,Industrial (GFA),0.0,0.0
+761,1137.0,Office (GFA),0.0,"100,000"
+762,1137.0,Other (GFA),0.0,0
+763,1137.0,Residential - Apartments (Units),0.0,"8,758"
+764,1137.0,Residential - Labour Accommodation (Units),0.0,0.0
+765,1137.0,Residential - Villas Emiratis (Units),0.0,0
+766,1137.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+767,1137.0,Retail (GFA),0.0,"120,048"
+768,1146.0,Community Facilities (GFA),1872.0,936
+769,1146.0,Education (GFA),0.0,0
+770,1146.0,Healthcare (GFA),0.0,0
+771,1146.0,Hotel (Units),0.0,0
+772,1146.0,Industrial (GFA),0.0,0.0
+773,1146.0,Office (GFA),0.0,0
+774,1146.0,Other (GFA),0.0,0
+775,1146.0,Residential - Apartments (Units),0.0,0
+776,1146.0,Residential - Labour Accommodation (Units),0.0,0.0
+777,1146.0,Residential - Villas Emiratis (Units),304.0,152
+778,1146.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+779,1146.0,Retail (GFA),0.0,"2,600"
+780,1164.0,Community Facilities (GFA),0.0,"234,542"
+781,1164.0,Education (GFA),0.0,0
+782,1164.0,Healthcare (GFA),0.0,0
+783,1164.0,Hotel (Units),975.2727272727274,894
+784,1164.0,Industrial (GFA),0.0,0.0
+785,1164.0,Office (GFA),0.0,"51,811"
+786,1164.0,Other (GFA),0.0,0
+787,1164.0,Residential - Apartments (Units),0.0,"7,200"
+788,1164.0,Residential - Labour Accommodation (Units),0.0,0.0
+789,1164.0,Residential - Villas Emiratis (Units),85.0909090909091,78
+790,1164.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+791,1164.0,Retail (GFA),0.0,"337,779"
+792,1170.0,Community Facilities (GFA),0.0,"2,695"
+793,1170.0,Education (GFA),0.0,0
+794,1170.0,Healthcare (GFA),0.0,0
+795,1170.0,Hotel (Units),0.0,0
+796,1170.0,Industrial (GFA),0.0,0.0
+797,1170.0,Office (GFA),0.0,"2,850"
+798,1170.0,Other (GFA),0.0,0
+799,1170.0,Residential - Apartments (Units),0.0,0
+800,1170.0,Residential - Labour Accommodation (Units),0.0,0.0
+801,1170.0,Residential - Villas Emiratis (Units),146.0,73
+802,1170.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+803,1170.0,Retail (GFA),0.0,"2,448"
+804,1170.1,Community Facilities (GFA),0.0,0
+805,1170.1,Education (GFA),0.0,0
+806,1170.1,Healthcare (GFA),0.0,0
+807,1170.1,Hotel (Units),0.0,0
+808,1170.1,Industrial (GFA),0.0,0.0
+809,1170.1,Office (GFA),0.0,"47,477"
+810,1170.1,Other (GFA),0.0,0
+811,1170.1,Residential - Apartments (Units),0.0,0
+812,1170.1,Residential - Labour Accommodation (Units),0.0,0.0
+813,1170.1,Residential - Villas Emiratis (Units),0.0,0
+814,1170.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+815,1170.1,Retail (GFA),0.0,"306,000"
+816,12222.0,Community Facilities (GFA),0.0,"2,801,649"
+817,12222.0,Education (GFA),0.0,0
+818,12222.0,Healthcare (GFA),0.0,0
+819,12222.0,Hotel (Units),1190.0,595
+820,12222.0,Industrial (GFA),0.0,0.0
+821,12222.0,Office (GFA),0.0,"716,060"
+822,12222.0,Other (GFA),0.0,0
+823,12222.0,Residential - Apartments (Units),0.0,"18,042"
+824,12222.0,Residential - Labour Accommodation (Units),0.0,0.0
+825,12222.0,Residential - Villas Emiratis (Units),0.0,"26,755"
+826,12222.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+827,12222.0,Retail (GFA),0.0,"396,097"
+828,1235.0,Community Facilities (GFA),0.0,"320,134"
+829,1235.0,Education (GFA),0.0,0
+830,1235.0,Healthcare (GFA),0.0,0
+831,1235.0,Hotel (Units),0.0,"3,531"
+832,1235.0,Industrial (GFA),0.0,0.0
+833,1235.0,Office (GFA),0.0,"464,376"
+834,1235.0,Other (GFA),0.0,0
+835,1235.0,Residential - Apartments (Units),0.0,"5,711"
+836,1235.0,Residential - Labour Accommodation (Units),0.0,0.0
+837,1235.0,Residential - Villas Emiratis (Units),0.0,0
+838,1235.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+839,1235.0,Retail (GFA),0.0,"303,948"
+840,1236.0,Community Facilities (GFA),0.0,"9,825"
+841,1236.0,Education (GFA),0.0,0
+842,1236.0,Healthcare (GFA),0.0,0
+843,1236.0,Hotel (Units),1750.0,875
+844,1236.0,Industrial (GFA),0.0,0.0
+845,1236.0,Office (GFA),0.0,"64,302"
+846,1236.0,Other (GFA),0.0,0
+847,1236.0,Residential - Apartments (Units),0.0,"3,767"
+848,1236.0,Residential - Labour Accommodation (Units),0.0,0.0
+849,1236.0,Residential - Villas Emiratis (Units),0.0,0
+850,1236.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+851,1236.0,Retail (GFA),0.0,"16,888"
+852,1251.0,Community Facilities (GFA),0.0,"3,160"
+853,1251.0,Education (GFA),0.0,0
+854,1251.0,Healthcare (GFA),0.0,0
+855,1251.0,Hotel (Units),0.0,0
+856,1251.0,Industrial (GFA),0.0,0.0
+857,1251.0,Office (GFA),0.0,"41,510"
+858,1251.0,Other (GFA),0.0,0
+859,1251.0,Residential - Apartments (Units),0.0,0
+860,1251.0,Residential - Labour Accommodation (Units),0.0,0.0
+861,1251.0,Residential - Villas Emiratis (Units),0.0,0
+862,1251.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+863,1251.0,Retail (GFA),0.0,"18,542"
+864,1251.2.1,Community Facilities (GFA),0.0,0
+865,1251.2.1,Education (GFA),0.0,0
+866,1251.2.1,Healthcare (GFA),0.0,0
+867,1251.2.1,Hotel (Units),0.0,0
+868,1251.2.1,Industrial (GFA),0.0,0.0
+869,1251.2.1,Office (GFA),0.0,0
+870,1251.2.1,Other (GFA),0.0,0
+871,1251.2.1,Residential - Apartments (Units),0.0,0
+872,1251.2.1,Residential - Labour Accommodation (Units),0.0,0.0
+873,1251.2.1,Residential - Villas Emiratis (Units),20.727272727272727,19
+874,1251.2.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+875,1251.2.1,Retail (GFA),0.0,0
+876,1251.4,Community Facilities (GFA),0.0,"35,923"
+877,1251.4,Education (GFA),0.0,0
+878,1251.4,Healthcare (GFA),0.0,0
+879,1251.4,Hotel (Units),0.0,0
+880,1251.4,Industrial (GFA),0.0,0.0
+881,1251.4,Office (GFA),0.0,0
+882,1251.4,Other (GFA),0.0,0
+883,1251.4,Residential - Apartments (Units),742.0,371
+884,1251.4,Residential - Labour Accommodation (Units),0.0,0.0
+885,1251.4,Residential - Villas Emiratis (Units),0.0,"2,503"
+886,1251.4,Residential - Villas Non-Emiratis (Units),0.0,0.0
+887,1251.4,Retail (GFA),0.0,"21,826"
+888,1251.6,Community Facilities (GFA),0.0,0
+889,1251.6,Education (GFA),0.0,0
+890,1251.6,Healthcare (GFA),0.0,0
+891,1251.6,Hotel (Units),0.0,0
+892,1251.6,Industrial (GFA),0.0,0.0
+893,1251.6,Office (GFA),782.1818181818182,717
+894,1251.6,Other (GFA),0.0,0
+895,1251.6,Residential - Apartments (Units),0.0,0
+896,1251.6,Residential - Labour Accommodation (Units),0.0,0.0
+897,1251.6,Residential - Villas Emiratis (Units),0.0,0
+898,1251.6,Residential - Villas Non-Emiratis (Units),0.0,0.0
+899,1251.6,Retail (GFA),0.0,"20,216"
+900,12698.0,Community Facilities (GFA),0.0,"109,205"
+901,12698.0,Education (GFA),0.0,0
+902,12698.0,Healthcare (GFA),0.0,0
+903,12698.0,Hotel (Units),282.54545454545456,259
+904,12698.0,Industrial (GFA),0.0,0.0
+905,12698.0,Office (GFA),0.0,0
+906,12698.0,Other (GFA),0.0,0
+907,12698.0,Residential - Apartments (Units),121.0909090909091,111
+908,12698.0,Residential - Labour Accommodation (Units),0.0,0.0
+909,12698.0,Residential - Villas Emiratis (Units),350.1818181818182,321
+910,12698.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+911,12698.0,Retail (GFA),0.0,"47,439"
+912,1317.0,Community Facilities (GFA),0.0,"1,180"
+913,1317.0,Education (GFA),0.0,0
+914,1317.0,Healthcare (GFA),0.0,0
+915,1317.0,Hotel (Units),0.0,0
+916,1317.0,Industrial (GFA),0.0,0.0
+917,1317.0,Office (GFA),0.0,"22,681"
+918,1317.0,Other (GFA),0.0,0
+919,1317.0,Residential - Apartments (Units),0.0,"1,712"
+920,1317.0,Residential - Labour Accommodation (Units),0.0,0.0
+921,1317.0,Residential - Villas Emiratis (Units),0.0,0
+922,1317.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+923,1317.0,Retail (GFA),0.0,"22,681"
+924,13222.1,Community Facilities (GFA),0.0,"239,842"
+925,13222.1,Education (GFA),0.0,0
+926,13222.1,Healthcare (GFA),0.0,0
+927,13222.1,Hotel (Units),0.0,"5,624"
+928,13222.1,Industrial (GFA),0.0,0.0
+929,13222.1,Office (GFA),0.0,"83,590"
+930,13222.1,Other (GFA),0.0,0
+931,13222.1,Residential - Apartments (Units),0.0,"35,212"
+932,13222.1,Residential - Labour Accommodation (Units),0.0,0.0
+933,13222.1,Residential - Villas Emiratis (Units),0.0,0
+934,13222.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+935,13222.1,Retail (GFA),0.0,"614,292"
+936,1413.0,Community Facilities (GFA),0.0,0
+937,1413.0,Education (GFA),0.0,0
+938,1413.0,Healthcare (GFA),0.0,0
+939,1413.0,Hotel (Units),0.0,0
+940,1413.0,Industrial (GFA),0.0,0.0
+941,1413.0,Office (GFA),0.0,0
+942,1413.0,Other (GFA),0.0,0
+943,1413.0,Residential - Apartments (Units),0.0,"3,800"
+944,1413.0,Residential - Labour Accommodation (Units),0.0,0.0
+945,1413.0,Residential - Villas Emiratis (Units),0.0,"6,791"
+946,1413.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+947,1413.0,Retail (GFA),0.0,0
+948,14135.0,Community Facilities (GFA),0.0,"950,000"
+949,14135.0,Education (GFA),0.0,"50,000"
+950,14135.0,Healthcare (GFA),0.0,0
+951,14135.0,Hotel (Units),0.0,375
+952,14135.0,Industrial (GFA),0.0,0.0
+953,14135.0,Office (GFA),0.0,0
+954,14135.0,Other (GFA),0.0,"900,000"
+955,14135.0,Residential - Apartments (Units),0.0,0
+956,14135.0,Residential - Labour Accommodation (Units),0.0,0.0
+957,14135.0,Residential - Villas Emiratis (Units),270.0,240
+958,14135.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+959,14135.0,Retail (GFA),0.0,"20,000"
+960,1416.0,Community Facilities (GFA),0.0,0
+961,1416.0,Education (GFA),0.0,0
+962,1416.0,Healthcare (GFA),0.0,0
+963,1416.0,Hotel (Units),0.0,0
+964,1416.0,Industrial (GFA),0.0,0.0
+965,1416.0,Office (GFA),0.0,0
+966,1416.0,Other (GFA),0.0,0
+967,1416.0,Residential - Apartments (Units),0.0,0
+968,1416.0,Residential - Labour Accommodation (Units),0.0,0.0
+969,1416.0,Residential - Villas Emiratis (Units),0.0,"1,146"
+970,1416.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+971,1416.0,Retail (GFA),0.0,0
+972,15090.1,Community Facilities (GFA),0.0,"62,279"
+973,15090.1,Education (GFA),0.0,0
+974,15090.1,Healthcare (GFA),0.0,0
+975,15090.1,Hotel (Units),41.45454545454545,38
+976,15090.1,Industrial (GFA),0.0,0.0
+977,15090.1,Office (GFA),0.0,"21,600"
+978,15090.1,Other (GFA),0.0,0
+979,15090.1,Residential - Apartments (Units),579.2727272727273,531
+980,15090.1,Residential - Labour Accommodation (Units),0.0,0.0
+981,15090.1,Residential - Villas Emiratis (Units),0.0,"1,207"
+982,15090.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+983,15090.1,Retail (GFA),0.0,"17,208"
+984,15090.2,Community Facilities (GFA),0.0,"167,508"
+985,15090.2,Education (GFA),0.0,0
+986,15090.2,Healthcare (GFA),0.0,0
+987,15090.2,Hotel (Units),0.0,246
+988,15090.2,Industrial (GFA),0.0,0.0
+989,15090.2,Office (GFA),0.0,0
+990,15090.2,Other (GFA),0.0,0
+991,15090.2,Residential - Apartments (Units),0.0,"3,946"
+992,15090.2,Residential - Labour Accommodation (Units),0.0,0.0
+993,15090.2,Residential - Villas Emiratis (Units),0.0,"2,851"
+994,15090.2,Residential - Villas Non-Emiratis (Units),0.0,0.0
+995,15090.2,Retail (GFA),0.0,"87,748"
+996,15690.0,Community Facilities (GFA),0.0,"24,597"
+997,15690.0,Education (GFA),0.0,0
+998,15690.0,Healthcare (GFA),0.0,0
+999,15690.0,Hotel (Units),235.63636363636363,216
+1000,15690.0,Industrial (GFA),0.0,0.0
+1001,15690.0,Office (GFA),0.0,"2,900"
+1002,15690.0,Other (GFA),0.0,0
+1003,15690.0,Residential - Apartments (Units),0.0,0
+1004,15690.0,Residential - Labour Accommodation (Units),0.0,0.0
+1005,15690.0,Residential - Villas Emiratis (Units),994.9090909090909,912
+1006,15690.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1007,15690.0,Retail (GFA),0.0,"4,365"
+1008,15694.0,Community Facilities (GFA),0.0,"35,923"
+1009,15694.0,Education (GFA),0.0,0
+1010,15694.0,Healthcare (GFA),0.0,0
+1011,15694.0,Hotel (Units),0.0,0
+1012,15694.0,Industrial (GFA),0.0,0.0
+1013,15694.0,Office (GFA),0.0,0
+1014,15694.0,Other (GFA),0.0,0
+1015,15694.0,Residential - Apartments (Units),0.0,0
+1016,15694.0,Residential - Labour Accommodation (Units),0.0,0.0
+1017,15694.0,Residential - Villas Emiratis (Units),762.5454545454545,699
+1018,15694.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1019,15694.0,Retail (GFA),0.0,"9,316"
+1020,1610.0,Community Facilities (GFA),0.0,"10,930"
+1021,1610.0,Education (GFA),0.0,0
+1022,1610.0,Healthcare (GFA),0.0,0
+1023,1610.0,Hotel (Units),1320.0,660
+1024,1610.0,Industrial (GFA),0.0,0.0
+1025,1610.0,Office (GFA),0.0,"14,377"
+1026,1610.0,Other (GFA),0.0,0
+1027,1610.0,Residential - Apartments (Units),0.0,"2,005"
+1028,1610.0,Residential - Labour Accommodation (Units),0.0,0.0
+1029,1610.0,Residential - Villas Emiratis (Units),66.0,33
+1030,1610.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1031,1610.0,Retail (GFA),0.0,"13,992"
+1032,1633.0,Community Facilities (GFA),0.0,"1,418"
+1033,1633.0,Education (GFA),0.0,0
+1034,1633.0,Healthcare (GFA),0.0,0
+1035,1633.0,Hotel (Units),0.0,0
+1036,1633.0,Industrial (GFA),0.0,0.0
+1037,1633.0,Office (GFA),0.0,0
+1038,1633.0,Other (GFA),0.0,0
+1039,1633.0,Residential - Apartments (Units),428.0,214
+1040,1633.0,Residential - Labour Accommodation (Units),0.0,0.0
+1041,1633.0,Residential - Villas Emiratis (Units),144.0,72
+1042,1633.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1043,1633.0,Retail (GFA),0.0,"1,500"
+1044,16775.0,Community Facilities (GFA),0.0,"156,195"
+1045,16775.0,Education (GFA),0.0,0
+1046,16775.0,Healthcare (GFA),0.0,0
+1047,16775.0,Hotel (Units),776.25,345
+1048,16775.0,Industrial (GFA),0.0,0.0
+1049,16775.0,Office (GFA),0.0,"68,785"
+1050,16775.0,Other (GFA),0.0,0
+1051,16775.0,Residential - Apartments (Units),0.0,"9,857"
+1052,16775.0,Residential - Labour Accommodation (Units),0.0,0.0
+1053,16775.0,Residential - Villas Emiratis (Units),528.75,470
+1054,16775.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1055,16775.0,Retail (GFA),0.0,"100,000"
+1056,17158.0,Community Facilities (GFA),0.0,"8,156"
+1057,17158.0,Education (GFA),0.0,0
+1058,17158.0,Healthcare (GFA),0.0,0
+1059,17158.0,Hotel (Units),0.0,0
+1060,17158.0,Industrial (GFA),0.0,0.0
+1061,17158.0,Office (GFA),0.0,0
+1062,17158.0,Other (GFA),0.0,0
+1063,17158.0,Residential - Apartments (Units),0.0,0
+1064,17158.0,Residential - Labour Accommodation (Units),0.0,0.0
+1065,17158.0,Residential - Villas Emiratis (Units),492.0,451
+1066,17158.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1067,17158.0,Retail (GFA),0.0,"1,750"
+1068,17158.1,Community Facilities (GFA),0.0,0
+1069,17158.1,Education (GFA),0.0,0
+1070,17158.1,Healthcare (GFA),0.0,0
+1071,17158.1,Hotel (Units),0.0,0
+1072,17158.1,Industrial (GFA),0.0,0.0
+1073,17158.1,Office (GFA),0.0,0
+1074,17158.1,Other (GFA),0.0,0
+1075,17158.1,Residential - Apartments (Units),0.0,"3,720"
+1076,17158.1,Residential - Labour Accommodation (Units),0.0,0.0
+1077,17158.1,Residential - Villas Emiratis (Units),0.0,"7,165"
+1078,17158.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1079,17158.1,Retail (GFA),0.0,0
+1080,17158.3,Community Facilities (GFA),0.0,"4,470"
+1081,17158.3,Education (GFA),0.0,0
+1082,17158.3,Healthcare (GFA),0.0,0
+1083,17158.3,Hotel (Units),617.4545454545455,566
+1084,17158.3,Industrial (GFA),0.0,0.0
+1085,17158.3,Office (GFA),0.0,0
+1086,17158.3,Other (GFA),0.0,0
+1087,17158.3,Residential - Apartments (Units),0.0,0
+1088,17158.3,Residential - Labour Accommodation (Units),0.0,0.0
+1089,17158.3,Residential - Villas Emiratis (Units),96.0,88
+1090,17158.3,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1091,17158.3,Retail (GFA),0.0,"1,000"
+1092,17158.4,Community Facilities (GFA),820.3636363636363,752
+1093,17158.4,Education (GFA),0.0,0
+1094,17158.4,Healthcare (GFA),0.0,0
+1095,17158.4,Hotel (Units),0.0,0
+1096,17158.4,Industrial (GFA),0.0,0.0
+1097,17158.4,Office (GFA),0.0,0
+1098,17158.4,Other (GFA),0.0,0
+1099,17158.4,Residential - Apartments (Units),0.0,0
+1100,17158.4,Residential - Labour Accommodation (Units),0.0,0.0
+1101,17158.4,Residential - Villas Emiratis (Units),0.0,0
+1102,17158.4,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1103,17158.4,Retail (GFA),0.0,"2,400"
+1104,1739.0,Community Facilities (GFA),0.0,0
+1105,1739.0,Education (GFA),0.0,0
+1106,1739.0,Healthcare (GFA),0.0,0
+1107,1739.0,Hotel (Units),0.0,0
+1108,1739.0,Industrial (GFA),0.0,0.0
+1109,1739.0,Office (GFA),0.0,0
+1110,1739.0,Other (GFA),0.0,0
+1111,1739.0,Residential - Apartments (Units),0.0,0
+1112,1739.0,Residential - Labour Accommodation (Units),0.0,0.0
+1113,1739.0,Residential - Villas Emiratis (Units),0.0,0
+1114,1739.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1115,1739.0,Retail (GFA),0.0,0
+1116,1740.0,Community Facilities (GFA),0.0,"72,081"
+1117,1740.0,Education (GFA),0.0,0
+1118,1740.0,Healthcare (GFA),0.0,0
+1119,1740.0,Hotel (Units),252.0,126
+1120,1740.0,Industrial (GFA),0.0,0.0
+1121,1740.0,Office (GFA),0.0,"1,300"
+1122,1740.0,Other (GFA),0.0,0
+1123,1740.0,Residential - Apartments (Units),0.0,"2,690"
+1124,1740.0,Residential - Labour Accommodation (Units),0.0,0.0
+1125,1740.0,Residential - Villas Emiratis (Units),0.0,"1,342"
+1126,1740.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1127,1740.0,Retail (GFA),0.0,"28,400"
+1128,17407.0,Community Facilities (GFA),0.0,"54,453"
+1129,17407.0,Education (GFA),0.0,0
+1130,17407.0,Healthcare (GFA),0.0,0
+1131,17407.0,Hotel (Units),0.0,0
+1132,17407.0,Industrial (GFA),0.0,0.0
+1133,17407.0,Office (GFA),0.0,0
+1134,17407.0,Other (GFA),0.0,0
+1135,17407.0,Residential - Apartments (Units),0.0,"3,252"
+1136,17407.0,Residential - Labour Accommodation (Units),0.0,0.0
+1137,17407.0,Residential - Villas Emiratis (Units),0.0,"1,011"
+1138,17407.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1139,17407.0,Retail (GFA),0.0,"52,672"
+1140,1783.0,Community Facilities (GFA),0.0,"88,889"
+1141,1783.0,Education (GFA),0.0,0
+1142,1783.0,Healthcare (GFA),0.0,0
+1143,1783.0,Hotel (Units),0.0,0
+1144,1783.0,Industrial (GFA),0.0,0.0
+1145,1783.0,Office (GFA),0.0,"54,132"
+1146,1783.0,Other (GFA),0.0,0
+1147,1783.0,Residential - Apartments (Units),0.0,0
+1148,1783.0,Residential - Labour Accommodation (Units),0.0,0.0
+1149,1783.0,Residential - Villas Emiratis (Units),0.0,0
+1150,1783.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1151,1783.0,Retail (GFA),0.0,"92,857"
+1152,17860.0,Community Facilities (GFA),0.0,"122,600"
+1153,17860.0,Education (GFA),0.0,0
+1154,17860.0,Healthcare (GFA),0.0,0
+1155,17860.0,Hotel (Units),0.0,0
+1156,17860.0,Industrial (GFA),0.0,0.0
+1157,17860.0,Office (GFA),163.63636363636363,150
+1158,17860.0,Other (GFA),0.0,0
+1159,17860.0,Residential - Apartments (Units),0.0,"11,402"
+1160,17860.0,Residential - Labour Accommodation (Units),0.0,0.0
+1161,17860.0,Residential - Villas Emiratis (Units),857.4545454545455,786
+1162,17860.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1163,17860.0,Retail (GFA),0.0,"143,381"
+1164,18211.0,Community Facilities (GFA),0.0,0
+1165,18211.0,Education (GFA),0.0,0
+1166,18211.0,Healthcare (GFA),0.0,0
+1167,18211.0,Hotel (Units),228.0,209
+1168,18211.0,Industrial (GFA),0.0,0.0
+1169,18211.0,Office (GFA),0.0,0
+1170,18211.0,Other (GFA),0.0,0
+1171,18211.0,Residential - Apartments (Units),0.0,0
+1172,18211.0,Residential - Labour Accommodation (Units),0.0,0.0
+1173,18211.0,Residential - Villas Emiratis (Units),0.0,0
+1174,18211.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1175,18211.0,Retail (GFA),0.0,"2,500"
+1176,18312.0,Community Facilities (GFA),0.0,0
+1177,18312.0,Education (GFA),0.0,0
+1178,18312.0,Healthcare (GFA),0.0,0
+1179,18312.0,Hotel (Units),135.0,120
+1180,18312.0,Industrial (GFA),0.0,0.0
+1181,18312.0,Office (GFA),0.0,0
+1182,18312.0,Other (GFA),0.0,0
+1183,18312.0,Residential - Apartments (Units),0.0,
+1184,18312.0,Residential - Labour Accommodation (Units),0.0,0.0
+1185,18312.0,Residential - Villas Emiratis (Units),0.0,
+1186,18312.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1187,18312.0,Retail (GFA),0.0,0
+1188,18339.0,Community Facilities (GFA),0.0,0
+1189,18339.0,Education (GFA),0.0,0
+1190,18339.0,Healthcare (GFA),0.0,0
+1191,18339.0,Hotel (Units),0.0,0
+1192,18339.0,Industrial (GFA),0.0,0.0
+1193,18339.0,Office (GFA),0.0,0
+1194,18339.0,Other (GFA),0.0,0
+1195,18339.0,Residential - Apartments (Units),0.0,0
+1196,18339.0,Residential - Labour Accommodation (Units),0.0,0.0
+1197,18339.0,Residential - Villas Emiratis (Units),675.0,600
+1198,18339.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1199,18339.0,Retail (GFA),0.0,0
+1200,18495.0,Community Facilities (GFA),0.0,"129,479"
+1201,18495.0,Education (GFA),0.0,0
+1202,18495.0,Healthcare (GFA),0.0,0
+1203,18495.0,Hotel (Units),0.0,"2,584"
+1204,18495.0,Industrial (GFA),0.0,0.0
+1205,18495.0,Office (GFA),0.0,"284,078"
+1206,18495.0,Other (GFA),0.0,0
+1207,18495.0,Residential - Apartments (Units),0.0,"6,860"
+1208,18495.0,Residential - Labour Accommodation (Units),0.0,0.0
+1209,18495.0,Residential - Villas Emiratis (Units),963.0,856
+1210,18495.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1211,18495.0,Retail (GFA),0.0,"127,248"
+1212,18495.1,Community Facilities (GFA),0.0,"206,090"
+1213,18495.1,Education (GFA),0.0,0
+1214,18495.1,Healthcare (GFA),0.0,0
+1215,18495.1,Hotel (Units),819.2727272727274,751
+1216,18495.1,Industrial (GFA),0.0,0.0
+1217,18495.1,Office (GFA),0.0,"26,630"
+1218,18495.1,Other (GFA),0.0,0
+1219,18495.1,Residential - Apartments (Units),0.0,"11,165"
+1220,18495.1,Residential - Labour Accommodation (Units),0.0,0.0
+1221,18495.1,Residential - Villas Emiratis (Units),0.0,"2,270"
+1222,18495.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1223,18495.1,Retail (GFA),0.0,"69,212"
+1224,18495.2,Community Facilities (GFA),0.0,"292,238"
+1225,18495.2,Education (GFA),0.0,0
+1226,18495.2,Healthcare (GFA),0.0,0
+1227,18495.2,Hotel (Units),614.1818181818181,563
+1228,18495.2,Industrial (GFA),0.0,0.0
+1229,18495.2,Office (GFA),0.0,"184,853"
+1230,18495.2,Other (GFA),0.0,0
+1231,18495.2,Residential - Apartments (Units),0.0,0
+1232,18495.2,Residential - Labour Accommodation (Units),0.0,0.0
+1233,18495.2,Residential - Villas Emiratis (Units),0.0,0
+1234,18495.2,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1235,18495.2,Retail (GFA),0.0,"128,169"
+1236,18649.0,Community Facilities (GFA),0.0,"60,398"
+1237,18649.0,Education (GFA),0.0,0
+1238,18649.0,Healthcare (GFA),0.0,0
+1239,18649.0,Hotel (Units),0.0,0
+1240,18649.0,Industrial (GFA),0.0,0.0
+1241,18649.0,Office (GFA),0.0,0
+1242,18649.0,Other (GFA),0.0,0
+1243,18649.0,Residential - Apartments (Units),0.0,191
+1244,18649.0,Residential - Labour Accommodation (Units),0.0,0.0
+1245,18649.0,Residential - Villas Emiratis (Units),963.0,856
+1246,18649.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1247,18649.0,Retail (GFA),0.0,"6,200"
+1248,18650.0,Community Facilities (GFA),0.0,0
+1249,18650.0,Education (GFA),0.0,0
+1250,18650.0,Healthcare (GFA),0.0,0
+1251,18650.0,Hotel (Units),0.0,0
+1252,18650.0,Industrial (GFA),0.0,0.0
+1253,18650.0,Office (GFA),0.0,TBD
+1254,18650.0,Other (GFA),0.0,0
+1255,18650.0,Residential - Apartments (Units),0.0,TBD
+1256,18650.0,Residential - Labour Accommodation (Units),0.0,0.0
+1257,18650.0,Residential - Villas Emiratis (Units),156.375,139
+1258,18650.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1259,18650.0,Retail (GFA),0.0,TBD
+1260,18916.0,Community Facilities (GFA),507.27272727272725,465
+1261,18916.0,Education (GFA),0.0,0
+1262,18916.0,Healthcare (GFA),0.0,0
+1263,18916.0,Hotel (Units),0.0,0
+1264,18916.0,Industrial (GFA),0.0,0.0
+1265,18916.0,Office (GFA),0.0,0
+1266,18916.0,Other (GFA),0.0,0
+1267,18916.0,Residential - Apartments (Units),0.0,0
+1268,18916.0,Residential - Labour Accommodation (Units),0.0,0.0
+1269,18916.0,Residential - Villas Emiratis (Units),60.0,55
+1270,18916.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1271,18916.0,Retail (GFA),829.0909090909091,760
+1272,18932.0,Community Facilities (GFA),0.0,0
+1273,18932.0,Education (GFA),0.0,0
+1274,18932.0,Healthcare (GFA),0.0,0
+1275,18932.0,Hotel (Units),0.0,0
+1276,18932.0,Industrial (GFA),0.0,0.0
+1277,18932.0,Office (GFA),0.0,0
+1278,18932.0,Other (GFA),0.0,0
+1279,18932.0,Residential - Apartments (Units),0.0,0
+1280,18932.0,Residential - Labour Accommodation (Units),0.0,0.0
+1281,18932.0,Residential - Villas Emiratis (Units),77.45454545454547,71
+1282,18932.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1283,18932.0,Retail (GFA),0.0,0
+1284,1920.0,Community Facilities (GFA),0.0,0
+1285,1920.0,Education (GFA),0.0,0
+1286,1920.0,Healthcare (GFA),0.0,0
+1287,1920.0,Hotel (Units),0.0,0
+1288,1920.0,Industrial (GFA),0.0,0.0
+1289,1920.0,Office (GFA),0.0,0
+1290,1920.0,Other (GFA),0.0,0
+1291,1920.0,Residential - Apartments (Units),0.0,"3,800"
+1292,1920.0,Residential - Labour Accommodation (Units),0.0,0.0
+1293,1920.0,Residential - Villas Emiratis (Units),0.0,
+1294,1920.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1295,1920.0,Retail (GFA),0.0,0
+1296,1994.0,Community Facilities (GFA),0.0,0
+1297,1994.0,Education (GFA),0.0,0
+1298,1994.0,Healthcare (GFA),0.0,0
+1299,1994.0,Hotel (Units),0.0,0
+1300,1994.0,Industrial (GFA),0.0,0.0
+1301,1994.0,Office (GFA),0.0,0
+1302,1994.0,Other (GFA),0.0,0
+1303,1994.0,Residential - Apartments (Units),0.0,0
+1304,1994.0,Residential - Labour Accommodation (Units),0.0,0.0
+1305,1994.0,Residential - Villas Emiratis (Units),0.0,0
+1306,1994.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1307,1994.0,Retail (GFA),0.0,0
+1308,1995.0,Community Facilities (GFA),0.0,"224,000"
+1309,1995.0,Education (GFA),0.0,0
+1310,1995.0,Healthcare (GFA),0.0,"224,000"
+1311,1995.0,Hotel (Units),0.0,0
+1312,1995.0,Industrial (GFA),0.0,0.0
+1313,1995.0,Office (GFA),0.0,0
+1314,1995.0,Other (GFA),0.0,0
+1315,1995.0,Residential - Apartments (Units),0.0,0
+1316,1995.0,Residential - Labour Accommodation (Units),0.0,0.0
+1317,1995.0,Residential - Villas Emiratis (Units),0.0,0
+1318,1995.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1319,1995.0,Retail (GFA),0.0,0
+1320,1996.0,Community Facilities (GFA),0.0,"57,733"
+1321,1996.0,Education (GFA),0.0,0
+1322,1996.0,Healthcare (GFA),0.0,0
+1323,1996.0,Hotel (Units),0.0,0
+1324,1996.0,Industrial (GFA),0.0,0.0
+1325,1996.0,Office (GFA),0.0,0
+1326,1996.0,Other (GFA),0.0,0
+1327,1996.0,Residential - Apartments (Units),0.0,0
+1328,1996.0,Residential - Labour Accommodation (Units),0.0,0.0
+1329,1996.0,Residential - Villas Emiratis (Units),0.0,"1,420"
+1330,1996.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1331,1996.0,Retail (GFA),0.0,"41,666"
+1332,1997.0,Community Facilities (GFA),0.0,"222,398"
+1333,1997.0,Education (GFA),0.0,0
+1334,1997.0,Healthcare (GFA),0.0,0
+1335,1997.0,Hotel (Units),1290.0,645
+1336,1997.0,Industrial (GFA),0.0,0.0
+1337,1997.0,Office (GFA),0.0,0
+1338,1997.0,Other (GFA),0.0,0
+1339,1997.0,Residential - Apartments (Units),0.0,0
+1340,1997.0,Residential - Labour Accommodation (Units),0.0,0.0
+1341,1997.0,Residential - Villas Emiratis (Units),0.0,0
+1342,1997.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1343,1997.0,Retail (GFA),0.0,"24,154"
+1344,1997.1,Community Facilities (GFA),0.0,"42,585"
+1345,1997.1,Education (GFA),0.0,0
+1346,1997.1,Healthcare (GFA),0.0,0
+1347,1997.1,Hotel (Units),0.0,268
+1348,1997.1,Industrial (GFA),0.0,0.0
+1349,1997.1,Office (GFA),0.0,"76,560"
+1350,1997.1,Other (GFA),0.0,0
+1351,1997.1,Residential - Apartments (Units),0.0,424
+1352,1997.1,Residential - Labour Accommodation (Units),0.0,0.0
+1353,1997.1,Residential - Villas Emiratis (Units),0.0,0
+1354,1997.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1355,1997.1,Retail (GFA),0.0,"23,509"
+1356,2100.0,Community Facilities (GFA),0.0,"534,104"
+1357,2100.0,Education (GFA),0.0,0
+1358,2100.0,Healthcare (GFA),0.0,0
+1359,2100.0,Hotel (Units),0.0,0
+1360,2100.0,Industrial (GFA),0.0,0.0
+1361,2100.0,Office (GFA),0.0,"228,569"
+1362,2100.0,Other (GFA),0.0,0
+1363,2100.0,Residential - Apartments (Units),0.0,0
+1364,2100.0,Residential - Labour Accommodation (Units),0.0,0.0
+1365,2100.0,Residential - Villas Emiratis (Units),0.0,0
+1366,2100.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1367,2100.0,Retail (GFA),0.0,"228,569"
+1368,2100.4,Community Facilities (GFA),0.0,"21,400"
+1369,2100.4,Education (GFA),0.0,0
+1370,2100.4,Healthcare (GFA),0.0,0
+1371,2100.4,Hotel (Units),0.0,"1,522"
+1372,2100.4,Industrial (GFA),0.0,0.0
+1373,2100.4,Office (GFA),0.0,"140,763"
+1374,2100.4,Other (GFA),0.0,0
+1375,2100.4,Residential - Apartments (Units),0.0,"4,598"
+1376,2100.4,Residential - Labour Accommodation (Units),0.0,0.0
+1377,2100.4,Residential - Villas Emiratis (Units),0.0,0
+1378,2100.4,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1379,2100.4,Retail (GFA),0.0,"61,331"
+1380,2115.2.1,Community Facilities (GFA),0.0,"1,247,665"
+1381,2115.2.1,Education (GFA),0.0,0
+1382,2115.2.1,Healthcare (GFA),0.0,0
+1383,2115.2.1,Hotel (Units),0.0,"10,768"
+1384,2115.2.1,Industrial (GFA),0.0,0.0
+1385,2115.2.1,Office (GFA),0.0,"2,789,233"
+1386,2115.2.1,Other (GFA),0.0,0
+1387,2115.2.1,Residential - Apartments (Units),0.0,"52,649"
+1388,2115.2.1,Residential - Labour Accommodation (Units),0.0,0.0
+1389,2115.2.1,Residential - Villas Emiratis (Units),0.0,"2,860"
+1390,2115.2.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1391,2115.2.1,Retail (GFA),0.0,"1,962,703"
+1392,21227.0,Community Facilities (GFA),0.0,"5,012"
+1393,21227.0,Education (GFA),0.0,0
+1394,21227.0,Healthcare (GFA),0.0,0
+1395,21227.0,Hotel (Units),0.0,"1,556"
+1396,21227.0,Industrial (GFA),0.0,0.0
+1397,21227.0,Office (GFA),0.0,"382,576"
+1398,21227.0,Other (GFA),0.0,0
+1399,21227.0,Residential - Apartments (Units),0.0,"15,428"
+1400,21227.0,Residential - Labour Accommodation (Units),0.0,0.0
+1401,21227.0,Residential - Villas Emiratis (Units),136.0,68
+1402,21227.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1403,21227.0,Retail (GFA),0.0,"314,572"
+1404,21227.1,Community Facilities (GFA),0.0,0
+1405,21227.1,Education (GFA),0.0,0
+1406,21227.1,Healthcare (GFA),0.0,0
+1407,21227.1,Hotel (Units),0.0,0
+1408,21227.1,Industrial (GFA),0.0,0.0
+1409,21227.1,Office (GFA),0.0,0
+1410,21227.1,Other (GFA),0.0,0
+1411,21227.1,Residential - Apartments (Units),0.0,0
+1412,21227.1,Residential - Labour Accommodation (Units),0.0,0.0
+1413,21227.1,Residential - Villas Emiratis (Units),99.27272727272728,91
+1414,21227.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1415,21227.1,Retail (GFA),0.0,0
+1416,21257.0,Community Facilities (GFA),0.0,"33,679"
+1417,21257.0,Education (GFA),0.0,0
+1418,21257.0,Healthcare (GFA),0.0,0
+1419,21257.0,Hotel (Units),0.0,0
+1420,21257.0,Industrial (GFA),0.0,0.0
+1421,21257.0,Office (GFA),0.0,"7,100"
+1422,21257.0,Other (GFA),0.0,0
+1423,21257.0,Residential - Apartments (Units),30.545454545454547,28
+1424,21257.0,Residential - Labour Accommodation (Units),0.0,0.0
+1425,21257.0,Residential - Villas Emiratis (Units),0.0,0
+1426,21257.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1427,21257.0,Retail (GFA),0.0,"2,310"
+1428,21301.0,Community Facilities (GFA),0.0,"2,115"
+1429,21301.0,Education (GFA),0.0,0
+1430,21301.0,Healthcare (GFA),0.0,0
+1431,21301.0,Hotel (Units),0.0,0
+1432,21301.0,Industrial (GFA),0.0,0.0
+1433,21301.0,Office (GFA),0.0,0
+1434,21301.0,Other (GFA),0.0,0
+1435,21301.0,Residential - Apartments (Units),580.3636363636364,532
+1436,21301.0,Residential - Labour Accommodation (Units),0.0,0.0
+1437,21301.0,Residential - Villas Emiratis (Units),0.0,0
+1438,21301.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1439,21301.0,Retail (GFA),0.0,"2,027"
+1440,21592.0,Community Facilities (GFA),0.0,"1,378"
+1441,21592.0,Education (GFA),0.0,0
+1442,21592.0,Healthcare (GFA),0.0,0
+1443,21592.0,Hotel (Units),0.0,0
+1444,21592.0,Industrial (GFA),0.0,0.0
+1445,21592.0,Office (GFA),0.0,0
+1446,21592.0,Other (GFA),0.0,0
+1447,21592.0,Residential - Apartments (Units),806.1818181818182,739
+1448,21592.0,Residential - Labour Accommodation (Units),0.0,0.0
+1449,21592.0,Residential - Villas Emiratis (Units),0.0,0
+1450,21592.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1451,21592.0,Retail (GFA),0.0,"7,201"
+1452,21661.0,Community Facilities (GFA),192.0,176
+1453,21661.0,Education (GFA),0.0,0
+1454,21661.0,Healthcare (GFA),0.0,0
+1455,21661.0,Hotel (Units),0.0,0
+1456,21661.0,Industrial (GFA),0.0,0.0
+1457,21661.0,Office (GFA),0.0,0
+1458,21661.0,Other (GFA),0.0,0
+1459,21661.0,Residential - Apartments (Units),126.54545454545453,116
+1460,21661.0,Residential - Labour Accommodation (Units),0.0,0.0
+1461,21661.0,Residential - Villas Emiratis (Units),0.0,0
+1462,21661.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1463,21661.0,Retail (GFA),0.0,"2,883"
+1464,21703.0,Community Facilities (GFA),0.0,"205,182"
+1465,21703.0,Education (GFA),0.0,0
+1466,21703.0,Healthcare (GFA),0.0,0
+1467,21703.0,Hotel (Units),0.0,0
+1468,21703.0,Industrial (GFA),0.0,0.0
+1469,21703.0,Office (GFA),0.0,"7,000"
+1470,21703.0,Other (GFA),0.0,0
+1471,21703.0,Residential - Apartments (Units),928.3636363636363,851
+1472,21703.0,Residential - Labour Accommodation (Units),0.0,0.0
+1473,21703.0,Residential - Villas Emiratis (Units),0.0,"4,063"
+1474,21703.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1475,21703.0,Retail (GFA),0.0,"54,717"
+1476,22345.0,Community Facilities (GFA),0.0,"41,098"
+1477,22345.0,Education (GFA),0.0,0
+1478,22345.0,Healthcare (GFA),0.0,0
+1479,22345.0,Hotel (Units),0.0,0
+1480,22345.0,Industrial (GFA),0.0,0.0
+1481,22345.0,Office (GFA),0.0,0
+1482,22345.0,Other (GFA),0.0,0
+1483,22345.0,Residential - Apartments (Units),0.0,0
+1484,22345.0,Residential - Labour Accommodation (Units),0.0,0.0
+1485,22345.0,Residential - Villas Emiratis (Units),0.0,"1,698"
+1486,22345.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1487,22345.0,Retail (GFA),0.0,"15,900"
+1488,23037.0,Community Facilities (GFA),0.0,"61,259"
+1489,23037.0,Education (GFA),0.0,0
+1490,23037.0,Healthcare (GFA),0.0,0
+1491,23037.0,Hotel (Units),0.0,0
+1492,23037.0,Industrial (GFA),0.0,0.0
+1493,23037.0,Office (GFA),0.0,0
+1494,23037.0,Other (GFA),0.0,0
+1495,23037.0,Residential - Apartments (Units),0.0,"2,026"
+1496,23037.0,Residential - Labour Accommodation (Units),0.0,0.0
+1497,23037.0,Residential - Villas Emiratis (Units),0.0,"2,547"
+1498,23037.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1499,23037.0,Retail (GFA),0.0,"24,950"
+1500,23037.1,Community Facilities (GFA),0.0,"27,824"
+1501,23037.1,Education (GFA),0.0,0
+1502,23037.1,Healthcare (GFA),0.0,0
+1503,23037.1,Hotel (Units),0.0,0
+1504,23037.1,Industrial (GFA),0.0,0.0
+1505,23037.1,Office (GFA),0.0,0
+1506,23037.1,Other (GFA),0.0,0
+1507,23037.1,Residential - Apartments (Units),761.4545454545455,698
+1508,23037.1,Residential - Labour Accommodation (Units),0.0,0.0
+1509,23037.1,Residential - Villas Emiratis (Units),0.0,0
+1510,23037.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1511,23037.1,Retail (GFA),0.0,"4,450"
+1512,23037.2.1,Community Facilities (GFA),651.2727272727273,597
+1513,23037.2.1,Education (GFA),0.0,0
+1514,23037.2.1,Healthcare (GFA),0.0,0
+1515,23037.2.1,Hotel (Units),0.0,0
+1516,23037.2.1,Industrial (GFA),0.0,0.0
+1517,23037.2.1,Office (GFA),0.0,0
+1518,23037.2.1,Other (GFA),0.0,0
+1519,23037.2.1,Residential - Apartments (Units),0.0,"1,525"
+1520,23037.2.1,Residential - Labour Accommodation (Units),0.0,0.0
+1521,23037.2.1,Residential - Villas Emiratis (Units),0.0,0
+1522,23037.2.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1523,23037.2.1,Retail (GFA),0.0,"3,850"
+1524,23037.3,Community Facilities (GFA),0.0,"2,560"
+1525,23037.3,Education (GFA),0.0,0
+1526,23037.3,Healthcare (GFA),0.0,0
+1527,23037.3,Hotel (Units),0.0,0
+1528,23037.3,Industrial (GFA),0.0,0.0
+1529,23037.3,Office (GFA),0.0,0
+1530,23037.3,Other (GFA),0.0,0
+1531,23037.3,Residential - Apartments (Units),0.0,0
+1532,23037.3,Residential - Labour Accommodation (Units),0.0,0.0
+1533,23037.3,Residential - Villas Emiratis (Units),427.6363636363637,392
+1534,23037.3,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1535,23037.3,Retail (GFA),0.0,0
+1536,23037.4,Community Facilities (GFA),0.0,"61,129"
+1537,23037.4,Education (GFA),0.0,0
+1538,23037.4,Healthcare (GFA),0.0,0
+1539,23037.4,Hotel (Units),0.0,0
+1540,23037.4,Industrial (GFA),0.0,0.0
+1541,23037.4,Office (GFA),0.0,0
+1542,23037.4,Other (GFA),0.0,0
+1543,23037.4,Residential - Apartments (Units),489.81818181818187,449
+1544,23037.4,Residential - Labour Accommodation (Units),0.0,0.0
+1545,23037.4,Residential - Villas Emiratis (Units),0.0,"1,439"
+1546,23037.4,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1547,23037.4,Retail (GFA),0.0,"20,000"
+1548,23168.0,Community Facilities (GFA),0.0,"3,265,344"
+1549,23168.0,Education (GFA),0.0,0
+1550,23168.0,Healthcare (GFA),0.0,0
+1551,23168.0,Hotel (Units),0.0,"6,166"
+1552,23168.0,Industrial (GFA),0.0,0.0
+1553,23168.0,Office (GFA),0.0,"4,292,534"
+1554,23168.0,Other (GFA),0.0,0
+1555,23168.0,Residential - Apartments (Units),0.0,"88,330"
+1556,23168.0,Residential - Labour Accommodation (Units),0.0,0.0
+1557,23168.0,Residential - Villas Emiratis (Units),0.0,"2,837"
+1558,23168.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1559,23168.0,Retail (GFA),0.0,"746,135"
+1560,24640.0,Community Facilities (GFA),776.7272727272727,712
+1561,24640.0,Education (GFA),0.0,0
+1562,24640.0,Healthcare (GFA),0.0,0
+1563,24640.0,Hotel (Units),0.0,0
+1564,24640.0,Industrial (GFA),0.0,0.0
+1565,24640.0,Office (GFA),0.0,0
+1566,24640.0,Other (GFA),0.0,0
+1567,24640.0,Residential - Apartments (Units),17.454545454545453,16
+1568,24640.0,Residential - Labour Accommodation (Units),0.0,0.0
+1569,24640.0,Residential - Villas Emiratis (Units),92.72727272727273,85
+1570,24640.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1571,24640.0,Retail (GFA),0.0,"3,730"
+1572,24811.0,Community Facilities (GFA),0.0,0
+1573,24811.0,Education (GFA),0.0,0
+1574,24811.0,Healthcare (GFA),0.0,0
+1575,24811.0,Hotel (Units),0.0,0
+1576,24811.0,Industrial (GFA),0.0,0.0
+1577,24811.0,Office (GFA),0.0,0
+1578,24811.0,Other (GFA),0.0,0
+1579,24811.0,Residential - Apartments (Units),0.0,0
+1580,24811.0,Residential - Labour Accommodation (Units),0.0,0.0
+1581,24811.0,Residential - Villas Emiratis (Units),0.0,0
+1582,24811.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1583,24811.0,Retail (GFA),250.90909090909093,230
+1584,24996.0,Community Facilities (GFA),0.0,"296,208"
+1585,24996.0,Education (GFA),0.0,0
+1586,24996.0,Healthcare (GFA),0.0,0
+1587,24996.0,Hotel (Units),0.0,"4,434"
+1588,24996.0,Industrial (GFA),0.0,0.0
+1589,24996.0,Office (GFA),0.0,"500,705"
+1590,24996.0,Other (GFA),0.0,0
+1591,24996.0,Residential - Apartments (Units),0.0,"24,831"
+1592,24996.0,Residential - Labour Accommodation (Units),0.0,0.0
+1593,24996.0,Residential - Villas Emiratis (Units),0.0,0
+1594,24996.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1595,24996.0,Retail (GFA),0.0,"174,255"
+1596,25087.0,Community Facilities (GFA),0.0,"114,694"
+1597,25087.0,Education (GFA),0.0,0
+1598,25087.0,Healthcare (GFA),0.0,0
+1599,25087.0,Hotel (Units),0.0,0
+1600,25087.0,Industrial (GFA),0.0,0.0
+1601,25087.0,Office (GFA),0.0,"202,438"
+1602,25087.0,Other (GFA),0.0,0
+1603,25087.0,Residential - Apartments (Units),800.0,400
+1604,25087.0,Residential - Labour Accommodation (Units),0.0,0.0
+1605,25087.0,Residential - Villas Emiratis (Units),0.0,0
+1606,25087.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1607,25087.0,Retail (GFA),0.0,"975,122"
+1608,25087.x,Community Facilities (GFA),0.0,"100,000"
+1609,25087.x,Education (GFA),0.0,0
+1610,25087.x,Healthcare (GFA),0.0,0
+1611,25087.x,Hotel (Units),291.375,259
+1612,25087.x,Industrial (GFA),0.0,0.0
+1613,25087.x,Office (GFA),0.0,"400,000"
+1614,25087.x,Other (GFA),0.0,0
+1615,25087.x,Residential - Apartments (Units),0.0,0
+1616,25087.x,Residential - Labour Accommodation (Units),0.0,0.0
+1617,25087.x,Residential - Villas Emiratis (Units),0.0,0
+1618,25087.x,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1619,25087.x,Retail (GFA),0.0,"80,000"
+1620,25258.0,Community Facilities (GFA),0.0,"29,108"
+1621,25258.0,Education (GFA),0.0,0
+1622,25258.0,Healthcare (GFA),0.0,0
+1623,25258.0,Hotel (Units),0.0,0
+1624,25258.0,Industrial (GFA),0.0,0.0
+1625,25258.0,Office (GFA),0.0,0
+1626,25258.0,Other (GFA),0.0,0
+1627,25258.0,Residential - Apartments (Units),197.45454545454544,181
+1628,25258.0,Residential - Labour Accommodation (Units),0.0,0.0
+1629,25258.0,Residential - Villas Emiratis (Units),499.6363636363637,458
+1630,25258.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1631,25258.0,Retail (GFA),0.0,"1,595"
+1632,2573.0,Community Facilities (GFA),1180.0,590
+1633,2573.0,Education (GFA),0.0,0
+1634,2573.0,Healthcare (GFA),0.0,0
+1635,2573.0,Hotel (Units),244.0,122
+1636,2573.0,Industrial (GFA),0.0,0.0
+1637,2573.0,Office (GFA),0.0,0
+1638,2573.0,Other (GFA),0.0,0
+1639,2573.0,Residential - Apartments (Units),0.0,0
+1640,2573.0,Residential - Labour Accommodation (Units),0.0,0.0
+1641,2573.0,Residential - Villas Emiratis (Units),898.0,449
+1642,2573.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1643,2573.0,Retail (GFA),0.0,"13,000"
+1644,25983.0,Community Facilities (GFA),0.0,"90,679"
+1645,25983.0,Education (GFA),0.0,0
+1646,25983.0,Healthcare (GFA),0.0,0
+1647,25983.0,Hotel (Units),0.0,0
+1648,25983.0,Industrial (GFA),0.0,0.0
+1649,25983.0,Office (GFA),0.0,0
+1650,25983.0,Other (GFA),0.0,0
+1651,25983.0,Residential - Apartments (Units),0.0,0
+1652,25983.0,Residential - Labour Accommodation (Units),0.0,0.0
+1653,25983.0,Residential - Villas Emiratis (Units),0.0,"1,659"
+1654,25983.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1655,25983.0,Retail (GFA),0.0,"50,500"
+1656,26239.0,Community Facilities (GFA),966.5454545454545,886
+1657,26239.0,Education (GFA),0.0,0
+1658,26239.0,Healthcare (GFA),0.0,0
+1659,26239.0,Hotel (Units),0.0,0
+1660,26239.0,Industrial (GFA),0.0,0.0
+1661,26239.0,Office (GFA),0.0,"3,922"
+1662,26239.0,Other (GFA),0.0,0
+1663,26239.0,Residential - Apartments (Units),0.0,0
+1664,26239.0,Residential - Labour Accommodation (Units),0.0,0.0
+1665,26239.0,Residential - Villas Emiratis (Units),0.0,0
+1666,26239.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1667,26239.0,Retail (GFA),0.0,0
+1668,26626.0,Community Facilities (GFA),0.0,"278,322"
+1669,26626.0,Education (GFA),0.0,0
+1670,26626.0,Healthcare (GFA),0.0,0
+1671,26626.0,Hotel (Units),0.0,0
+1672,26626.0,Industrial (GFA),0.0,0.0
+1673,26626.0,Office (GFA),0.0,0
+1674,26626.0,Other (GFA),0.0,0
+1675,26626.0,Residential - Apartments (Units),0.0,"1,720"
+1676,26626.0,Residential - Labour Accommodation (Units),0.0,0.0
+1677,26626.0,Residential - Villas Emiratis (Units),0.0,"5,519"
+1678,26626.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1679,26626.0,Retail (GFA),0.0,"126,503"
+1680,28240.0,Community Facilities (GFA),0.0,"42,600"
+1681,28240.0,Education (GFA),0.0,0
+1682,28240.0,Healthcare (GFA),0.0,0
+1683,28240.0,Hotel (Units),135.0,120
+1684,28240.0,Industrial (GFA),0.0,0.0
+1685,28240.0,Office (GFA),0.0,0
+1686,28240.0,Other (GFA),0.0,0
+1687,28240.0,Residential - Apartments (Units),0.0,0
+1688,28240.0,Residential - Labour Accommodation (Units),0.0,0.0
+1689,28240.0,Residential - Villas Emiratis (Units),150.75,134
+1690,28240.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1691,28240.0,Retail (GFA),0.0,0
+1692,2874.0,Community Facilities (GFA),0.0,0
+1693,2874.0,Education (GFA),0.0,0
+1694,2874.0,Healthcare (GFA),0.0,0
+1695,2874.0,Hotel (Units),0.0,0
+1696,2874.0,Industrial (GFA),0.0,0.0
+1697,2874.0,Office (GFA),0.0,0
+1698,2874.0,Other (GFA),0.0,0
+1699,2874.0,Residential - Apartments (Units),0.0,0
+1700,2874.0,Residential - Labour Accommodation (Units),0.0,0.0
+1701,2874.0,Residential - Villas Emiratis (Units),0.0,0
+1702,2874.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1703,2874.0,Retail (GFA),0.0,0
+1704,2874.1,Community Facilities (GFA),0.0,0
+1705,2874.1,Education (GFA),0.0,0
+1706,2874.1,Healthcare (GFA),0.0,0
+1707,2874.1,Hotel (Units),0.0,0
+1708,2874.1,Industrial (GFA),0.0,0.0
+1709,2874.1,Office (GFA),0.0,0
+1710,2874.1,Other (GFA),0.0,0
+1711,2874.1,Residential - Apartments (Units),0.0,0
+1712,2874.1,Residential - Labour Accommodation (Units),0.0,0.0
+1713,2874.1,Residential - Villas Emiratis (Units),0.0,0
+1714,2874.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1715,2874.1,Retail (GFA),0.0,0
+1716,2897.0,Community Facilities (GFA),0.0,"48,481"
+1717,2897.0,Education (GFA),0.0,0
+1718,2897.0,Healthcare (GFA),0.0,0
+1719,2897.0,Hotel (Units),1994.0,997
+1720,2897.0,Industrial (GFA),0.0,0.0
+1721,2897.0,Office (GFA),0.0,"284,078"
+1722,2897.0,Other (GFA),0.0,0
+1723,2897.0,Residential - Apartments (Units),0.0,"6,669"
+1724,2897.0,Residential - Labour Accommodation (Units),0.0,0.0
+1725,2897.0,Residential - Villas Emiratis (Units),0.0,0
+1726,2897.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1727,2897.0,Retail (GFA),0.0,"85,173"
+1728,32379.0,Community Facilities (GFA),0.0,0
+1729,32379.0,Education (GFA),0.0,0
+1730,32379.0,Healthcare (GFA),0.0,0
+1731,32379.0,Hotel (Units),0.0,0
+1732,32379.0,Industrial (GFA),0.0,0.0
+1733,32379.0,Office (GFA),0.0,0
+1734,32379.0,Other (GFA),0.0,0
+1735,32379.0,Residential - Apartments (Units),0.0,0
+1736,32379.0,Residential - Labour Accommodation (Units),0.0,0.0
+1737,32379.0,Residential - Villas Emiratis (Units),0.0,0
+1738,32379.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1739,32379.0,Retail (GFA),0.0,0
+1740,32592.0,Community Facilities (GFA),0.0,0
+1741,32592.0,Education (GFA),0.0,0
+1742,32592.0,Healthcare (GFA),0.0,0
+1743,32592.0,Hotel (Units),29.454545454545453,27
+1744,32592.0,Industrial (GFA),0.0,0.0
+1745,32592.0,Office (GFA),0.0,"1,508"
+1746,32592.0,Other (GFA),0.0,0
+1747,32592.0,Residential - Apartments (Units),26.18181818181818,24
+1748,32592.0,Residential - Labour Accommodation (Units),0.0,0.0
+1749,32592.0,Residential - Villas Emiratis (Units),0.0,0
+1750,32592.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1751,32592.0,Retail (GFA),0.0,"9,006"
+1752,33416.0,Community Facilities (GFA),0.0,"118,856"
+1753,33416.0,Education (GFA),0.0,0
+1754,33416.0,Healthcare (GFA),0.0,0
+1755,33416.0,Hotel (Units),0.0,0
+1756,33416.0,Industrial (GFA),0.0,0.0
+1757,33416.0,Office (GFA),0.0,"2,208"
+1758,33416.0,Other (GFA),0.0,0
+1759,33416.0,Residential - Apartments (Units),0.0,"1,772"
+1760,33416.0,Residential - Labour Accommodation (Units),0.0,0.0
+1761,33416.0,Residential - Villas Emiratis (Units),0.0,"2,213"
+1762,33416.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1763,33416.0,Retail (GFA),0.0,"32,192"
+1764,33436.0,Community Facilities (GFA),0.0,"1,856"
+1765,33436.0,Education (GFA),0.0,0
+1766,33436.0,Healthcare (GFA),0.0,0
+1767,33436.0,Hotel (Units),0.0,0
+1768,33436.0,Industrial (GFA),0.0,0.0
+1769,33436.0,Office (GFA),672.0,616
+1770,33436.0,Other (GFA),0.0,0
+1771,33436.0,Residential - Apartments (Units),0.0,0
+1772,33436.0,Residential - Labour Accommodation (Units),0.0,0.0
+1773,33436.0,Residential - Villas Emiratis (Units),152.72727272727275,140
+1774,33436.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1775,33436.0,Retail (GFA),909.818181818182,834
+1776,33450.0,Community Facilities (GFA),0.0,"60,892"
+1777,33450.0,Education (GFA),0.0,0
+1778,33450.0,Healthcare (GFA),0.0,0
+1779,33450.0,Hotel (Units),0.0,0
+1780,33450.0,Industrial (GFA),0.0,0.0
+1781,33450.0,Office (GFA),0.0,"416,749"
+1782,33450.0,Other (GFA),0.0,0
+1783,33450.0,Residential - Apartments (Units),0.0,0
+1784,33450.0,Residential - Labour Accommodation (Units),0.0,0.0
+1785,33450.0,Residential - Villas Emiratis (Units),0.0,0
+1786,33450.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1787,33450.0,Retail (GFA),0.0,"35,587"
+1788,35581.0,Community Facilities (GFA),0.0,"2,018"
+1789,35581.0,Education (GFA),0.0,0
+1790,35581.0,Healthcare (GFA),0.0,0
+1791,35581.0,Hotel (Units),0.0,0
+1792,35581.0,Industrial (GFA),0.0,0.0
+1793,35581.0,Office (GFA),0.0,0
+1794,35581.0,Other (GFA),0.0,0
+1795,35581.0,Residential - Apartments (Units),0.0,0
+1796,35581.0,Residential - Labour Accommodation (Units),0.0,0.0
+1797,35581.0,Residential - Villas Emiratis (Units),264.0,242
+1798,35581.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1799,35581.0,Retail (GFA),0.0,"1,929"
+1800,36016.0,Community Facilities (GFA),0.0,"155,670"
+1801,36016.0,Education (GFA),0.0,0
+1802,36016.0,Healthcare (GFA),0.0,0
+1803,36016.0,Hotel (Units),0.0,0
+1804,36016.0,Industrial (GFA),0.0,0.0
+1805,36016.0,Office (GFA),0.0,"171,417"
+1806,36016.0,Other (GFA),0.0,0
+1807,36016.0,Residential - Apartments (Units),0.0,"2,291"
+1808,36016.0,Residential - Labour Accommodation (Units),0.0,0.0
+1809,36016.0,Residential - Villas Emiratis (Units),0.0,"1,837"
+1810,36016.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1811,36016.0,Retail (GFA),0.0,"331,015"
+1812,36322.0,Community Facilities (GFA),0.0,0
+1813,36322.0,Education (GFA),0.0,0
+1814,36322.0,Healthcare (GFA),0.0,0
+1815,36322.0,Hotel (Units),0.0,0
+1816,36322.0,Industrial (GFA),0.0,0.0
+1817,36322.0,Office (GFA),160.36363636363637,147
+1818,36322.0,Other (GFA),0.0,0
+1819,36322.0,Residential - Apartments (Units),0.0,"5,547"
+1820,36322.0,Residential - Labour Accommodation (Units),0.0,0.0
+1821,36322.0,Residential - Villas Emiratis (Units),0.0,0
+1822,36322.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1823,36322.0,Retail (GFA),0.0,"3,670"
+1824,36681.0,Community Facilities (GFA),0.0,"47,235"
+1825,36681.0,Education (GFA),0.0,0
+1826,36681.0,Healthcare (GFA),0.0,0
+1827,36681.0,Hotel (Units),0.0,"2,528"
+1828,36681.0,Industrial (GFA),0.0,0.0
+1829,36681.0,Office (GFA),0.0,"441,540"
+1830,36681.0,Other (GFA),0.0,0
+1831,36681.0,Residential - Apartments (Units),0.0,0
+1832,36681.0,Residential - Labour Accommodation (Units),0.0,0.0
+1833,36681.0,Residential - Villas Emiratis (Units),0.0,0
+1834,36681.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1835,36681.0,Retail (GFA),0.0,"267,167"
+1836,37817.0,Community Facilities (GFA),0.0,"562,268"
+1837,37817.0,Education (GFA),0.0,0
+1838,37817.0,Healthcare (GFA),0.0,0
+1839,37817.0,Hotel (Units),0.0,0
+1840,37817.0,Industrial (GFA),0.0,0.0
+1841,37817.0,Office (GFA),0.0,0
+1842,37817.0,Other (GFA),0.0,0
+1843,37817.0,Residential - Apartments (Units),0.0,"10,400"
+1844,37817.0,Residential - Labour Accommodation (Units),0.0,0.0
+1845,37817.0,Residential - Villas Emiratis (Units),0.0,"7,626"
+1846,37817.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1847,37817.0,Retail (GFA),0.0,"348,122"
+1848,38036.0,Community Facilities (GFA),0.0,"15,238"
+1849,38036.0,Education (GFA),0.0,0
+1850,38036.0,Healthcare (GFA),0.0,0
+1851,38036.0,Hotel (Units),0.0,0
+1852,38036.0,Industrial (GFA),0.0,0.0
+1853,38036.0,Office (GFA),0.0,0
+1854,38036.0,Other (GFA),0.0,0
+1855,38036.0,Residential - Apartments (Units),0.0,0
+1856,38036.0,Residential - Labour Accommodation (Units),0.0,0.0
+1857,38036.0,Residential - Villas Emiratis (Units),652.5,580
+1858,38036.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1859,38036.0,Retail (GFA),0.0,"3,000"
+1860,38190.0,Community Facilities (GFA),0.0,"23,966"
+1861,38190.0,Education (GFA),0.0,0
+1862,38190.0,Healthcare (GFA),0.0,0
+1863,38190.0,Hotel (Units),283.6363636363636,260
+1864,38190.0,Industrial (GFA),0.0,0.0
+1865,38190.0,Office (GFA),0.0,0
+1866,38190.0,Other (GFA),0.0,0
+1867,38190.0,Residential - Apartments (Units),0.0,0
+1868,38190.0,Residential - Labour Accommodation (Units),0.0,0.0
+1869,38190.0,Residential - Villas Emiratis (Units),238.90909090909093,219
+1870,38190.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1871,38190.0,Retail (GFA),0.0,"7,850"
+1872,38988.0,Community Facilities (GFA),0.0,"13,795"
+1873,38988.0,Education (GFA),0.0,0
+1874,38988.0,Healthcare (GFA),0.0,0
+1875,38988.0,Hotel (Units),0.0,0
+1876,38988.0,Industrial (GFA),0.0,0.0
+1877,38988.0,Office (GFA),0.0,0
+1878,38988.0,Other (GFA),0.0,0
+1879,38988.0,Residential - Apartments (Units),0.0,"2,580"
+1880,38988.0,Residential - Labour Accommodation (Units),0.0,0.0
+1881,38988.0,Residential - Villas Emiratis (Units),408.375,363
+1882,38988.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1883,38988.0,Retail (GFA),0.0,"19,365"
+1884,39724.0,Community Facilities (GFA),490.909090909091,450
+1885,39724.0,Education (GFA),0.0,0
+1886,39724.0,Healthcare (GFA),0.0,0
+1887,39724.0,Hotel (Units),0.0,0
+1888,39724.0,Industrial (GFA),0.0,0.0
+1889,39724.0,Office (GFA),0.0,0
+1890,39724.0,Other (GFA),0.0,0
+1891,39724.0,Residential - Apartments (Units),0.0,0
+1892,39724.0,Residential - Labour Accommodation (Units),0.0,0.0
+1893,39724.0,Residential - Villas Emiratis (Units),340.3636363636364,312
+1894,39724.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1895,39724.0,Retail (GFA),0.0,0
+1896,5000.0,Community Facilities (GFA),0.0,"22,578"
+1897,5000.0,Education (GFA),0.0,0
+1898,5000.0,Healthcare (GFA),0.0,0
+1899,5000.0,Hotel (Units),0.0,0
+1900,5000.0,Industrial (GFA),0.0,0.0
+1901,5000.0,Office (GFA),0.0,"8,467"
+1902,5000.0,Other (GFA),0.0,0
+1903,5000.0,Residential - Apartments (Units),0.0,0
+1904,5000.0,Residential - Labour Accommodation (Units),0.0,0.0
+1905,5000.0,Residential - Villas Emiratis (Units),0.0,0
+1906,5000.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1907,5000.0,Retail (GFA),0.0,"5,644"
+1908,5000.34,Community Facilities (GFA),0.0,"331,244"
+1909,5000.34,Education (GFA),0.0,0
+1910,5000.34,Healthcare (GFA),0.0,0
+1911,5000.34,Hotel (Units),0.0,150
+1912,5000.34,Industrial (GFA),0.0,0.0
+1913,5000.34,Office (GFA),0.0,"5,929,267"
+1914,5000.34,Other (GFA),0.0,0
+1915,5000.34,Residential - Apartments (Units),0.0,0
+1916,5000.34,Residential - Labour Accommodation (Units),0.0,0.0
+1917,5000.34,Residential - Villas Emiratis (Units),0.0,0
+1918,5000.34,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1919,5000.34,Retail (GFA),0.0,"754,374"
+1920,5222.0,Community Facilities (GFA),0.0,"119,265"
+1921,5222.0,Education (GFA),0.0,0
+1922,5222.0,Healthcare (GFA),0.0,0
+1923,5222.0,Hotel (Units),0.0,0
+1924,5222.0,Industrial (GFA),0.0,0.0
+1925,5222.0,Office (GFA),0.0,0
+1926,5222.0,Other (GFA),0.0,0
+1927,5222.0,Residential - Apartments (Units),0.0,0
+1928,5222.0,Residential - Labour Accommodation (Units),0.0,0.0
+1929,5222.0,Residential - Villas Emiratis (Units),0.0,0
+1930,5222.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1931,5222.0,Retail (GFA),0.0,0
+1932,5251.0,Community Facilities (GFA),0.0,"38,195"
+1933,5251.0,Education (GFA),0.0,0
+1934,5251.0,Healthcare (GFA),0.0,0
+1935,5251.0,Hotel (Units),667.6363636363637,612
+1936,5251.0,Industrial (GFA),0.0,0.0
+1937,5251.0,Office (GFA),0.0,"1,000"
+1938,5251.0,Other (GFA),0.0,0
+1939,5251.0,Residential - Apartments (Units),0.0,"1,325"
+1940,5251.0,Residential - Labour Accommodation (Units),0.0,0.0
+1941,5251.0,Residential - Villas Emiratis (Units),0.0,"1,374"
+1942,5251.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1943,5251.0,Retail (GFA),0.0,"19,221"
+1944,5251.1,Community Facilities (GFA),0.0,"31,038"
+1945,5251.1,Education (GFA),0.0,0
+1946,5251.1,Healthcare (GFA),0.0,0
+1947,5251.1,Hotel (Units),0.0,0
+1948,5251.1,Industrial (GFA),0.0,0.0
+1949,5251.1,Office (GFA),0.0,0
+1950,5251.1,Other (GFA),0.0,0
+1951,5251.1,Residential - Apartments (Units),0.0,0
+1952,5251.1,Residential - Labour Accommodation (Units),0.0,0.0
+1953,5251.1,Residential - Villas Emiratis (Units),388.3636363636364,356
+1954,5251.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1955,5251.1,Retail (GFA),0.0,"3,152"
+1956,5251.2,Community Facilities (GFA),0.0,0
+1957,5251.2,Education (GFA),0.0,0
+1958,5251.2,Healthcare (GFA),0.0,0
+1959,5251.2,Hotel (Units),0.0,0
+1960,5251.2,Industrial (GFA),0.0,0.0
+1961,5251.2,Office (GFA),0.0,0
+1962,5251.2,Other (GFA),0.0,0
+1963,5251.2,Residential - Apartments (Units),0.0,0
+1964,5251.2,Residential - Labour Accommodation (Units),0.0,0.0
+1965,5251.2,Residential - Villas Emiratis (Units),255.27272727272728,234
+1966,5251.2,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1967,5251.2,Retail (GFA),0.0,0
+1968,5365.0,Community Facilities (GFA),0.0,"107,593"
+1969,5365.0,Education (GFA),0.0,0
+1970,5365.0,Healthcare (GFA),0.0,0
+1971,5365.0,Hotel (Units),1260.0,630
+1972,5365.0,Industrial (GFA),0.0,0.0
+1973,5365.0,Office (GFA),0.0,"95,966"
+1974,5365.0,Other (GFA),0.0,0
+1975,5365.0,Residential - Apartments (Units),0.0,"6,671"
+1976,5365.0,Residential - Labour Accommodation (Units),0.0,0.0
+1977,5365.0,Residential - Villas Emiratis (Units),90.0,45
+1978,5365.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1979,5365.0,Retail (GFA),0.0,"40,369"
+1980,5394.0,Community Facilities (GFA),0.0,"1,298"
+1981,5394.0,Education (GFA),0.0,0
+1982,5394.0,Healthcare (GFA),0.0,0
+1983,5394.0,Hotel (Units),0.0,0
+1984,5394.0,Industrial (GFA),0.0,0.0
+1985,5394.0,Office (GFA),471.27272727272725,432
+1986,5394.0,Other (GFA),0.0,0
+1987,5394.0,Residential - Apartments (Units),0.0,0
+1988,5394.0,Residential - Labour Accommodation (Units),0.0,0.0
+1989,5394.0,Residential - Villas Emiratis (Units),0.0,0
+1990,5394.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+1991,5394.0,Retail (GFA),0.0,"5,519"
+1992,5746.0,Community Facilities (GFA),0.0,0
+1993,5746.0,Education (GFA),0.0,0
+1994,5746.0,Healthcare (GFA),0.0,0
+1995,5746.0,Hotel (Units),229.09090909090907,210
+1996,5746.0,Industrial (GFA),0.0,0.0
+1997,5746.0,Office (GFA),0.0,0
+1998,5746.0,Other (GFA),0.0,0
+1999,5746.0,Residential - Apartments (Units),0.0,0
+2000,5746.0,Residential - Labour Accommodation (Units),0.0,0.0
+2001,5746.0,Residential - Villas Emiratis (Units),0.0,0
+2002,5746.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2003,5746.0,Retail (GFA),0.0,"88,755"
+2004,6029.0,Community Facilities (GFA),0.0,"50,652"
+2005,6029.0,Education (GFA),0.0,0
+2006,6029.0,Healthcare (GFA),0.0,0
+2007,6029.0,Hotel (Units),0.0,0
+2008,6029.0,Industrial (GFA),0.0,0.0
+2009,6029.0,Office (GFA),0.0,"1,751"
+2010,6029.0,Other (GFA),0.0,0
+2011,6029.0,Residential - Apartments (Units),0.0,
+2012,6029.0,Residential - Labour Accommodation (Units),0.0,0.0
+2013,6029.0,Residential - Villas Emiratis (Units),0.0,
+2014,6029.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2015,6029.0,Retail (GFA),0.0,"160,279"
+2016,6033.0,Community Facilities (GFA),0.0,"66,384"
+2017,6033.0,Education (GFA),0.0,0
+2018,6033.0,Healthcare (GFA),0.0,0
+2019,6033.0,Hotel (Units),0.0,"3,176"
+2020,6033.0,Industrial (GFA),0.0,0.0
+2021,6033.0,Office (GFA),0.0,0
+2022,6033.0,Other (GFA),0.0,0
+2023,6033.0,Residential - Apartments (Units),0.0,"1,865"
+2024,6033.0,Residential - Labour Accommodation (Units),0.0,0.0
+2025,6033.0,Residential - Villas Emiratis (Units),1464.0,732
+2026,6033.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2027,6033.0,Retail (GFA),0.0,"51,344"
+2028,6034.0,Community Facilities (GFA),0.0,"9,830"
+2029,6034.0,Education (GFA),0.0,0
+2030,6034.0,Healthcare (GFA),0.0,0
+2031,6034.0,Hotel (Units),0.0,0
+2032,6034.0,Industrial (GFA),0.0,0.0
+2033,6034.0,Office (GFA),0.0,0
+2034,6034.0,Other (GFA),0.0,0
+2035,6034.0,Residential - Apartments (Units),0.0,0
+2036,6034.0,Residential - Labour Accommodation (Units),0.0,0.0
+2037,6034.0,Residential - Villas Emiratis (Units),0.0,0
+2038,6034.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2039,6034.0,Retail (GFA),1060.3636363636363,972
+2040,6034.1,Community Facilities (GFA),0.0,"9,830"
+2041,6034.1,Education (GFA),0.0,0
+2042,6034.1,Healthcare (GFA),0.0,0
+2043,6034.1,Hotel (Units),0.0,0
+2044,6034.1,Industrial (GFA),0.0,0.0
+2045,6034.1,Office (GFA),0.0,0
+2046,6034.1,Other (GFA),0.0,0
+2047,6034.1,Residential - Apartments (Units),0.0,0
+2048,6034.1,Residential - Labour Accommodation (Units),0.0,0.0
+2049,6034.1,Residential - Villas Emiratis (Units),0.0,0
+2050,6034.1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2051,6034.1,Retail (GFA),1060.3636363636363,972
+2052,6053.0,Community Facilities (GFA),0.0,"28,589"
+2053,6053.0,Education (GFA),0.0,0
+2054,6053.0,Healthcare (GFA),0.0,0
+2055,6053.0,Hotel (Units),0.0,0
+2056,6053.0,Industrial (GFA),0.0,0.0
+2057,6053.0,Office (GFA),0.0,0
+2058,6053.0,Other (GFA),0.0,0
+2059,6053.0,Residential - Apartments (Units),0.0,"1,908"
+2060,6053.0,Residential - Labour Accommodation (Units),0.0,0.0
+2061,6053.0,Residential - Villas Emiratis (Units),0.0,"1,908"
+2062,6053.0,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2063,6053.0,Retail (GFA),0.0,"65,473"
+2064,6053.2,Community Facilities (GFA),0.0,"5,278"
+2065,6053.2,Education (GFA),0.0,0
+2066,6053.2,Healthcare (GFA),0.0,0
+2067,6053.2,Hotel (Units),0.0,0
+2068,6053.2,Industrial (GFA),0.0,0.0
+2069,6053.2,Office (GFA),0.0,0
+2070,6053.2,Other (GFA),0.0,0
+2071,6053.2,Residential - Apartments (Units),0.0,511
+2072,6053.2,Residential - Labour Accommodation (Units),0.0,0.0
+2073,6053.2,Residential - Villas Emiratis (Units),321.75,286
+2074,6053.2,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2075,6053.2,Retail (GFA),0.0,"20,523"
+2076,ABU AL HABL ISLAND_P1,Community Facilities (GFA),0.0,0
+2077,ABU AL HABL ISLAND_P1,Education (GFA),0.0,0
+2078,ABU AL HABL ISLAND_P1,Healthcare (GFA),0.0,0
+2079,ABU AL HABL ISLAND_P1,Hotel (Units),0.0,"2,000"
+2080,ABU AL HABL ISLAND_P1,Industrial (GFA),0.0,0.0
+2081,ABU AL HABL ISLAND_P1,Office (GFA),0.0,0
+2082,ABU AL HABL ISLAND_P1,Other (GFA),0.0,0
+2083,ABU AL HABL ISLAND_P1,Residential - Apartments (Units),0.0,0
+2084,ABU AL HABL ISLAND_P1,Residential - Labour Accommodation (Units),0.0,0.0
+2085,ABU AL HABL ISLAND_P1,Residential - Villas Emiratis (Units),0.0,0
+2086,ABU AL HABL ISLAND_P1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2087,ABU AL HABL ISLAND_P1,Retail (GFA),0.0,0
+2088,ABU MREIKHAH_2,Community Facilities (GFA),0.0,0
+2089,ABU MREIKHAH_2,Education (GFA),0.0,0
+2090,ABU MREIKHAH_2,Healthcare (GFA),0.0,0
+2091,ABU MREIKHAH_2,Hotel (Units),0.0,0
+2092,ABU MREIKHAH_2,Industrial (GFA),0.0,0.0
+2093,ABU MREIKHAH_2,Office (GFA),0.0,0
+2094,ABU MREIKHAH_2,Other (GFA),0.0,0
+2095,ABU MREIKHAH_2,Residential - Apartments (Units),0.0,"3,720"
+2096,ABU MREIKHAH_2,Residential - Labour Accommodation (Units),0.0,0.0
+2097,ABU MREIKHAH_2,Residential - Villas Emiratis (Units),0.0,"6,000"
+2098,ABU MREIKHAH_2,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2099,ABU MREIKHAH_2,Retail (GFA),0.0,0
+2100,AL SMEEH_21,Community Facilities (GFA),0.0,0
+2101,AL SMEEH_21,Education (GFA),0.0,0
+2102,AL SMEEH_21,Healthcare (GFA),0.0,0
+2103,AL SMEEH_21,Hotel (Units),0.0,0
+2104,AL SMEEH_21,Industrial (GFA),0.0,0.0
+2105,AL SMEEH_21,Office (GFA),0.0,0
+2106,AL SMEEH_21,Other (GFA),0.0,0
+2107,AL SMEEH_21,Residential - Apartments (Units),0.0,0
+2108,AL SMEEH_21,Residential - Labour Accommodation (Units),0.0,0.0
+2109,AL SMEEH_21,Residential - Villas Emiratis (Units),0.0,0
+2110,AL SMEEH_21,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2111,AL SMEEH_21,Retail (GFA),0.0,0
+2112,Al Bahia North,Community Facilities (GFA),0.0,0
+2113,Al Bahia North,Education (GFA),0.0,0
+2114,Al Bahia North,Healthcare (GFA),0.0,0
+2115,Al Bahia North,Hotel (Units),0.0,0
+2116,Al Bahia North,Industrial (GFA),0.0,0.0
+2117,Al Bahia North,Office (GFA),0.0,TBD
+2118,Al Bahia North,Other (GFA),0.0,0
+2119,Al Bahia North,Residential - Apartments (Units),0.0,TBD
+2120,Al Bahia North,Residential - Labour Accommodation (Units),0.0,0.0
+2121,Al Bahia North,Residential - Villas Emiratis (Units),675.0,600
+2122,Al Bahia North,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2123,Al Bahia North,Retail (GFA),0.0,TBD
+2124,Al Falah East,Community Facilities (GFA),0.0,0
+2125,Al Falah East,Education (GFA),0.0,0
+2126,Al Falah East,Healthcare (GFA),0.0,0
+2127,Al Falah East,Hotel (Units),0.0,0
+2128,Al Falah East,Industrial (GFA),0.0,0.0
+2129,Al Falah East,Office (GFA),0.0,TBD
+2130,Al Falah East,Other (GFA),0.0,0
+2131,Al Falah East,Residential - Apartments (Units),0.0,TBD
+2132,Al Falah East,Residential - Labour Accommodation (Units),0.0,0.0
+2133,Al Falah East,Residential - Villas Emiratis (Units),562.5,500
+2134,Al Falah East,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2135,Al Falah East,Retail (GFA),0.0,TBD
+2136,Al Haffar,Community Facilities (GFA),0.0,0
+2137,Al Haffar,Education (GFA),0.0,0
+2138,Al Haffar,Healthcare (GFA),0.0,0
+2139,Al Haffar,Hotel (Units),0.0,0
+2140,Al Haffar,Industrial (GFA),0.0,0.0
+2141,Al Haffar,Office (GFA),0.0,TBD
+2142,Al Haffar,Other (GFA),0.0,0
+2143,Al Haffar,Residential - Apartments (Units),0.0,TBD
+2144,Al Haffar,Residential - Labour Accommodation (Units),0.0,0.0
+2145,Al Haffar,Residential - Villas Emiratis (Units),0.0,"4,000"
+2146,Al Haffar,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2147,Al Haffar,Retail (GFA),0.0,TBD
+2148,Al Hanyourah,Community Facilities (GFA),0.0,0
+2149,Al Hanyourah,Education (GFA),0.0,0
+2150,Al Hanyourah,Healthcare (GFA),0.0,0
+2151,Al Hanyourah,Hotel (Units),0.0,0
+2152,Al Hanyourah,Industrial (GFA),0.0,0.0
+2153,Al Hanyourah,Office (GFA),0.0,0
+2154,Al Hanyourah,Other (GFA),0.0,0
+2155,Al Hanyourah,Residential - Apartments (Units),0.0,0
+2156,Al Hanyourah,Residential - Labour Accommodation (Units),0.0,0.0
+2157,Al Hanyourah,Residential - Villas Emiratis (Units),0.0,0
+2158,Al Hanyourah,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2159,Al Hanyourah,Retail (GFA),0.0,0
+2160,Al Sader Ph2,Community Facilities (GFA),0.0,0
+2161,Al Sader Ph2,Education (GFA),0.0,0
+2162,Al Sader Ph2,Healthcare (GFA),0.0,0
+2163,Al Sader Ph2,Hotel (Units),0.0,0
+2164,Al Sader Ph2,Industrial (GFA),0.0,0.0
+2165,Al Sader Ph2,Office (GFA),0.0,0
+2166,Al Sader Ph2,Other (GFA),0.0,0
+2167,Al Sader Ph2,Residential - Apartments (Units),0.0,0
+2168,Al Sader Ph2,Residential - Labour Accommodation (Units),0.0,0.0
+2169,Al Sader Ph2,Residential - Villas Emiratis (Units),0.0,"1,165"
+2170,Al Sader Ph2,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2171,Al Sader Ph2,Retail (GFA),0.0,0
+2172,Al Shahamah II_1,Community Facilities (GFA),0.0,0
+2173,Al Shahamah II_1,Education (GFA),0.0,0
+2174,Al Shahamah II_1,Healthcare (GFA),0.0,0
+2175,Al Shahamah II_1,Hotel (Units),0.0,0
+2176,Al Shahamah II_1,Industrial (GFA),0.0,0.0
+2177,Al Shahamah II_1,Office (GFA),0.0,0
+2178,Al Shahamah II_1,Other (GFA),0.0,0
+2179,Al Shahamah II_1,Residential - Apartments (Units),0.0,"1,950"
+2180,Al Shahamah II_1,Residential - Labour Accommodation (Units),0.0,0.0
+2181,Al Shahamah II_1,Residential - Villas Emiratis (Units),0.0,"3,004"
+2182,Al Shahamah II_1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2183,Al Shahamah II_1,Retail (GFA),0.0,0
+2184,GHANADHAH_2,Community Facilities (GFA),0.0,0
+2185,GHANADHAH_2,Education (GFA),0.0,0
+2186,GHANADHAH_2,Healthcare (GFA),0.0,0
+2187,GHANADHAH_2,Hotel (Units),0.0,0
+2188,GHANADHAH_2,Industrial (GFA),0.0,0.0
+2189,GHANADHAH_2,Office (GFA),0.0,0
+2190,GHANADHAH_2,Other (GFA),0.0,0
+2191,GHANADHAH_2,Residential - Apartments (Units),0.0,0
+2192,GHANADHAH_2,Residential - Labour Accommodation (Units),0.0,0.0
+2193,GHANADHAH_2,Residential - Villas Emiratis (Units),0.0,0
+2194,GHANADHAH_2,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2195,GHANADHAH_2,Retail (GFA),0.0,0
+2196,ICAD 1,Community Facilities (GFA),0.0,"962,565"
+2197,ICAD 1,Education (GFA),0.0,0
+2198,ICAD 1,Healthcare (GFA),0.0,0
+2199,ICAD 1,Hotel (Units),600.0,300
+2200,ICAD 1,Industrial (GFA),0.0,0.0
+2201,ICAD 1,Office (GFA),0.0,0
+2202,ICAD 1,Other (GFA),0.0,0
+2203,ICAD 1,Residential - Apartments (Units),0.0,0
+2204,ICAD 1,Residential - Labour Accommodation (Units),0.0,0.0
+2205,ICAD 1,Residential - Villas Emiratis (Units),0.0,0
+2206,ICAD 1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2207,ICAD 1,Retail (GFA),0.0,"21,200"
+2208,KizadCentre,Community Facilities (GFA),0.0,0
+2209,KizadCentre,Education (GFA),0.0,0
+2210,KizadCentre,Healthcare (GFA),0.0,0
+2211,KizadCentre,Hotel (Units),0.0,"1,000"
+2212,KizadCentre,Industrial (GFA),0.0,0.0
+2213,KizadCentre,Office (GFA),0.0,"100,000"
+2214,KizadCentre,Other (GFA),0.0,0
+2215,KizadCentre,Residential - Apartments (Units),0.0,"31,140"
+2216,KizadCentre,Residential - Labour Accommodation (Units),0.0,0.0
+2217,KizadCentre,Residential - Villas Emiratis (Units),0.0,0
+2218,KizadCentre,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2219,KizadCentre,Retail (GFA),0.0,"250,000"
+2220,Mina Zayed,Community Facilities (GFA),0.0,"398,234"
+2221,Mina Zayed,Education (GFA),0.0,0
+2222,Mina Zayed,Healthcare (GFA),0.0,0
+2223,Mina Zayed,Hotel (Units),0.0,805
+2224,Mina Zayed,Industrial (GFA),0.0,0.0
+2225,Mina Zayed,Office (GFA),0.0,"255,118"
+2226,Mina Zayed,Other (GFA),0.0,0
+2227,Mina Zayed,Residential - Apartments (Units),0.0,
+2228,Mina Zayed,Residential - Labour Accommodation (Units),0.0,0.0
+2229,Mina Zayed,Residential - Villas Emiratis (Units),0.0,
+2230,Mina Zayed,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2231,Mina Zayed,Retail (GFA),0.0,"479,125"
+2232,Mina Zayed_Phase 3,Community Facilities (GFA),0.0,0
+2233,Mina Zayed_Phase 3,Education (GFA),0.0,0
+2234,Mina Zayed_Phase 3,Healthcare (GFA),0.0,0
+2235,Mina Zayed_Phase 3,Hotel (Units),581.625,517
+2236,Mina Zayed_Phase 3,Industrial (GFA),0.0,0.0
+2237,Mina Zayed_Phase 3,Office (GFA),0.0,"350,000"
+2238,Mina Zayed_Phase 3,Other (GFA),0.0,0
+2239,Mina Zayed_Phase 3,Residential - Apartments (Units),0.0,0
+2240,Mina Zayed_Phase 3,Residential - Labour Accommodation (Units),0.0,0.0
+2241,Mina Zayed_Phase 3,Residential - Villas Emiratis (Units),0.0,0
+2242,Mina Zayed_Phase 3,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2243,Mina Zayed_Phase 3,Retail (GFA),0.0,"150,000"
+2244,Rabdan,Community Facilities (GFA),0.0,0
+2245,Rabdan,Education (GFA),0.0,0
+2246,Rabdan,Healthcare (GFA),0.0,0
+2247,Rabdan,Hotel (Units),0.0,0
+2248,Rabdan,Industrial (GFA),0.0,0.0
+2249,Rabdan,Office (GFA),0.0,0
+2250,Rabdan,Other (GFA),0.0,0
+2251,Rabdan,Residential - Apartments (Units),0.0,0
+2252,Rabdan,Residential - Labour Accommodation (Units),0.0,0.0
+2253,Rabdan,Residential - Villas Emiratis (Units),0.0,"1,620"
+2254,Rabdan,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2255,Rabdan,Retail (GFA),0.0,0
+2256,Ras Al Sader_142,Community Facilities (GFA),0.0,0
+2257,Ras Al Sader_142,Education (GFA),0.0,0
+2258,Ras Al Sader_142,Healthcare (GFA),0.0,0
+2259,Ras Al Sader_142,Hotel (Units),0.0,0
+2260,Ras Al Sader_142,Industrial (GFA),0.0,0.0
+2261,Ras Al Sader_142,Office (GFA),0.0,TBD
+2262,Ras Al Sader_142,Other (GFA),0.0,0
+2263,Ras Al Sader_142,Residential - Apartments (Units),0.0,TBD
+2264,Ras Al Sader_142,Residential - Labour Accommodation (Units),0.0,0.0
+2265,Ras Al Sader_142,Residential - Villas Emiratis (Units),159.75,142
+2266,Ras Al Sader_142,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2267,Ras Al Sader_142,Retail (GFA),0.0,TBD
+2268,Riyadh,Community Facilities (GFA),0.0,"65,297"
+2269,Riyadh,Education (GFA),0.0,0
+2270,Riyadh,Healthcare (GFA),0.0,0
+2271,Riyadh,Hotel (Units),260.1,306
+2272,Riyadh,Industrial (GFA),0.0,0.0
+2273,Riyadh,Office (GFA),0.0,"203,849"
+2274,Riyadh,Other (GFA),0.0,0
+2275,Riyadh,Residential - Apartments (Units),0.0,0
+2276,Riyadh,Residential - Labour Accommodation (Units),0.0,0.0
+2277,Riyadh,Residential - Villas Emiratis (Units),0.0,0
+2278,Riyadh,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2279,Riyadh,Retail (GFA),0.0,"21,063"
+2280,SHM13_P1,Community Facilities (GFA),0.0,0
+2281,SHM13_P1,Education (GFA),0.0,0
+2282,SHM13_P1,Healthcare (GFA),0.0,0
+2283,SHM13_P1,Hotel (Units),0.0,0
+2284,SHM13_P1,Industrial (GFA),0.0,0.0
+2285,SHM13_P1,Office (GFA),0.0,0
+2286,SHM13_P1,Other (GFA),0.0,0
+2287,SHM13_P1,Residential - Apartments (Units),0.0,"1,001"
+2288,SHM13_P1,Residential - Labour Accommodation (Units),0.0,0.0
+2289,SHM13_P1,Residential - Villas Emiratis (Units),0.0,"1,351"
+2290,SHM13_P1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2291,SHM13_P1,Retail (GFA),0.0,0
+2292,Samha New Housing - Ph 1,Community Facilities (GFA),0.0,0
+2293,Samha New Housing - Ph 1,Education (GFA),0.0,0
+2294,Samha New Housing - Ph 1,Healthcare (GFA),0.0,0
+2295,Samha New Housing - Ph 1,Hotel (Units),0.0,0
+2296,Samha New Housing - Ph 1,Industrial (GFA),0.0,0.0
+2297,Samha New Housing - Ph 1,Office (GFA),0.0,0
+2298,Samha New Housing - Ph 1,Other (GFA),0.0,0
+2299,Samha New Housing - Ph 1,Residential - Apartments (Units),0.0,"1,808"
+2300,Samha New Housing - Ph 1,Residential - Labour Accommodation (Units),0.0,0.0
+2301,Samha New Housing - Ph 1,Residential - Villas Emiratis (Units),0.0,"2,440"
+2302,Samha New Housing - Ph 1,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2303,Samha New Housing - Ph 1,Retail (GFA),0.0,0
+2304,Samha New Housing - Ph 2,Community Facilities (GFA),0.0,0
+2305,Samha New Housing - Ph 2,Education (GFA),0.0,0
+2306,Samha New Housing - Ph 2,Healthcare (GFA),0.0,0
+2307,Samha New Housing - Ph 2,Hotel (Units),0.0,0
+2308,Samha New Housing - Ph 2,Industrial (GFA),0.0,0.0
+2309,Samha New Housing - Ph 2,Office (GFA),0.0,0
+2310,Samha New Housing - Ph 2,Other (GFA),0.0,0
+2311,Samha New Housing - Ph 2,Residential - Apartments (Units),0.0,"4,600"
+2312,Samha New Housing - Ph 2,Residential - Labour Accommodation (Units),0.0,0.0
+2313,Samha New Housing - Ph 2,Residential - Villas Emiratis (Units),0.0,"6,210"
+2314,Samha New Housing - Ph 2,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2315,Samha New Housing - Ph 2,Retail (GFA),0.0,0
+2316,Samha New Housing - Ph 3,Community Facilities (GFA),0.0,0
+2317,Samha New Housing - Ph 3,Education (GFA),0.0,0
+2318,Samha New Housing - Ph 3,Healthcare (GFA),0.0,0
+2319,Samha New Housing - Ph 3,Hotel (Units),0.0,0
+2320,Samha New Housing - Ph 3,Industrial (GFA),0.0,0.0
+2321,Samha New Housing - Ph 3,Office (GFA),0.0,0
+2322,Samha New Housing - Ph 3,Other (GFA),0.0,0
+2323,Samha New Housing - Ph 3,Residential - Apartments (Units),0.0,"6,750"
+2324,Samha New Housing - Ph 3,Residential - Labour Accommodation (Units),0.0,0.0
+2325,Samha New Housing - Ph 3,Residential - Villas Emiratis (Units),0.0,"9,113"
+2326,Samha New Housing - Ph 3,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2327,Samha New Housing - Ph 3,Retail (GFA),0.0,0
+2328,Umm Al Nar,Community Facilities (GFA),0.0,0
+2329,Umm Al Nar,Education (GFA),0.0,0
+2330,Umm Al Nar,Healthcare (GFA),0.0,0
+2331,Umm Al Nar,Hotel (Units),0.0,0
+2332,Umm Al Nar,Industrial (GFA),0.0,0.0
+2333,Umm Al Nar,Office (GFA),0.0,0
+2334,Umm Al Nar,Other (GFA),0.0,0
+2335,Umm Al Nar,Residential - Apartments (Units),0.0,0
+2336,Umm Al Nar,Residential - Labour Accommodation (Units),0.0,0.0
+2337,Umm Al Nar,Residential - Villas Emiratis (Units),0.0,"4,608"
+2338,Umm Al Nar,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2339,Umm Al Nar,Retail (GFA),0.0,0
+2340,Z9_MBZ,Community Facilities (GFA),0.0,0
+2341,Z9_MBZ,Education (GFA),0.0,0
+2342,Z9_MBZ,Healthcare (GFA),0.0,0
+2343,Z9_MBZ,Hotel (Units),0.0,0
+2344,Z9_MBZ,Industrial (GFA),0.0,0.0
+2345,Z9_MBZ,Office (GFA),0.0,0
+2346,Z9_MBZ,Other (GFA),0.0,0
+2347,Z9_MBZ,Residential - Apartments (Units),0.0,0
+2348,Z9_MBZ,Residential - Labour Accommodation (Units),0.0,0.0
+2349,Z9_MBZ,Residential - Villas Emiratis (Units),0.0,0
+2350,Z9_MBZ,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2351,Z9_MBZ,Retail (GFA),0.0,0
+2352,Zayed Military city,Community Facilities (GFA),0.0,0
+2353,Zayed Military city,Education (GFA),0.0,0
+2354,Zayed Military city,Healthcare (GFA),0.0,0
+2355,Zayed Military city,Hotel (Units),0.0,0
+2356,Zayed Military city,Industrial (GFA),0.0,0.0
+2357,Zayed Military city,Office (GFA),0.0,TBD
+2358,Zayed Military city,Other (GFA),0.0,0
+2359,Zayed Military city,Residential - Apartments (Units),0.0,TBD
+2360,Zayed Military city,Residential - Labour Accommodation (Units),0.0,0.0
+2361,Zayed Military city,Residential - Villas Emiratis (Units),0.0,"1,410"
+2362,Zayed Military city,Residential - Villas Non-Emiratis (Units),0.0,0.0
+2363,Zayed Military city,Retail (GFA),0.0,TBD
